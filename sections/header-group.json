@@ -58,7 +58,7 @@
         "scrolling_speed": 10,
         "background": "#1f3d36",
         "background_gradient": "",
-        "text_color": "#ffffff"
+        "text_color": "#e8e1d6"
       }
     },
     "header": {
@@ -80,7 +80,7 @@
         "show_country_selector": true,
         "show_country_flag": true,
         "show_country_name": true,
-        "transparent_header_text_color": "#ffffff",
+        "transparent_header_text_color": "#1c1c1c",
         "reduce_padding": true,
         "background_opacity": 0,
         "background_blur_radius": 0

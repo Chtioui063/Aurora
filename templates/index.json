@@ -36,40 +36,6 @@
         "overlay_opacity": 0
       }
     },
-    "rich_text_6AmKRm": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_pD7bwt": {
-          "type": "heading",
-          "settings": {
-            "text": "Reconnu par les experts en bien-être. Soutenu par la science.",
-            "heading_tag": "h1",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "richtext_T7nqLH": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Pas de caféine qui épuise. Pas de sucre qui déséquilibre. Pas de discours creux.</p><p>La plus petite molécule de l'univers pénètre vos cellules, neutralise le stress oxydatif et réveille votre vitalité au niveau mitochondrial. Ce que les biohackers, athlètes d'élite et médecins avant-gardistes utilisent déjà en silence.</p><p>Certifié NSF. Conforme CE. Testé en laboratoire. Parce que la performance ne se négocie pas.</p><p><strong>Nous n'avons pas inventé l'hydrogène. Nous l'avons simplement rendu impossible à ignorer.</strong></p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_pD7bwt",
-        "richtext_T7nqLH"
-      ],
-      "disabled": true,
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "start",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "logo_list_7bQW9A": {
       "type": "logo-list",
       "blocks": {
@@ -118,35 +84,11 @@
         "items_per_row": 4,
         "background": "",
         "background_gradient": "",
-        "text_color": "#2f3a4a",
+        "text_color": "#1c1c1c",
         "heading_color": "",
         "heading_gradient": "",
         "logo_item_background": "",
         "logo_item_border": ""
-      }
-    },
-    "rich_text_6tAfan": {
-      "type": "rich-text",
-      "blocks": {
-        "subheading_EJ8XQB": {
-          "type": "subheading",
-          "settings": {
-            "text": ""
-          }
-        }
-      },
-      "block_order": [
-        "subheading_EJ8XQB"
-      ],
-      "custom_css": [],
-      "name": "Rich text",
-      "settings": {
-        "full_width": false,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
       }
     },
     "image_with_text_overlay_wtFgTy": {
@@ -280,9 +222,9 @@
         "subheading": "‎",
         "title": "",
         "content": "",
-        "background": "#ffffff",
+        "background": "#e8e1d6",
         "background_gradient": "linear-gradient(54deg, rgba(NaN, NaN, NaN, 0) 14%, rgba(255, 250, 99, 1) 85%)",
-        "text_color": "#2f3a4a"
+        "text_color": "#1c1c1c"
       }
     },
     "featured_product_E3J8Yb": {
@@ -1447,9 +1389,7 @@
   },
   "order": [
     "image_with_text_overlay_FPxaiF",
-    "rich_text_6AmKRm",
     "logo_list_7bQW9A",
-    "rich_text_6tAfan",
     "image_with_text_overlay_wtFgTy",
     "before_after_image_3BCNVX",
     "custom_liquid_3TGkGd",
