@@ -29,8 +29,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/energie_clarte_mentale_35.png",
-        "mobile_image": "shopify://shop_images/Banniere.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -78,7 +76,6 @@
         "logo_NmqyVE": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/4.png",
             "logo_width": 60,
             "link": ""
           }
@@ -86,7 +83,6 @@
         "logo_eB3yqm": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/3_ccc43bc6-5e2f-4504-b49e-204b76922cd9.png",
             "logo_width": 60,
             "link": ""
           }
@@ -94,7 +90,6 @@
         "logo_zCCEEc": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/1_f711426e-7296-4fb8-bab5-70aec7e1cdba.png",
             "logo_width": 60,
             "link": ""
           }
@@ -102,7 +97,6 @@
         "logo_gYpDRh": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/2_b91649cd-0562-4127-afc8-9f6fbee8f7d1.png",
             "logo_width": 60,
             "link": ""
           }
@@ -119,7 +113,7 @@
         "full_width": true,
         "stack_mobile": false,
         "title": "",
-        "content": "<p><strong>Raccomandato dagli esperti del benessere :</strong></p>",
+        "content": "<p><strong>Vu sur :</strong></p>",
         "text_alignment": "center",
         "items_per_row": 4,
         "background": "",
@@ -137,7 +131,7 @@
         "subheading_EJ8XQB": {
           "type": "subheading",
           "settings": {
-            "text": "I 6 MOTIVI PER CUI IL VOSTRO CORPO VI SARÀ GRATO"
+            "text": ""
           }
         }
       },
@@ -163,8 +157,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Benefices.png",
-        "mobile_image": "shopify://shop_images/Benefices.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -177,11 +169,9 @@
       "name": "Before/after image",
       "settings": {
         "full_width": true,
-        "subheading": "I risultati parlano da soli",
+        "subheading": "Des résultats concrets",
         "title": "",
         "content": "",
-        "before_image": "shopify://shop_images/17.jpg",
-        "after_image": "shopify://shop_images/18.jpg",
         "expand_image": false,
         "text_position": "center",
         "before_after_text_position": "bottom",
@@ -204,7 +194,7 @@
         "full_width": true,
         "remove_vertical_spacing": true,
         "remove_horizontal_spacing": false,
-        "liquid": "<div class=\"tp-block FgVdQeK8P7\">\n  <style>\n    /* 🔧 ZÉRO ESPACE EN HAUT POUR CETTE SECTION UNIQUEMENT */\n    .tp-block{ margin:0 !important; padding:0 !important; }\n    .tp-block > *:first-child{ margin-top:0 !important; padding-top:0 !important; }\n\n    /* Optionnel : si le thème ajoute un gap interne au wrapper des sections */\n    .tp-block:where(.tp-block){ --section-padding-top: 0px; }\n\n    h1.d3FsH6IqT4{\n      margin-top:0 !important;\n      padding-top:0 !important;\n      font-size:26px;font-weight:bold;color:#333;text-align:center;\n    }\n\n    h1 .AaB2Y5Gp9f{\n      background:linear-gradient(to bottom,#28a745 0%,#d3f9d8 100%);\n      -webkit-background-clip:text;color:transparent;\n    }\n\n    p.RwV2N5Lt0I{ margin-top:5px;font-size:16px;color:#555;text-align:center; }\n\n    .LaVtZ1Q0xK{ display:flex;align-items:center;justify-content:center;\n      font-family:Arial,sans-serif;font-size:14px;color:#333;margin-top:10px; }\n\n    .KsF9M8H2Ej{ display:flex;align-items:center;margin-right:10px; }\n    .KsF9M8H2Ej img{ max-width:100px;width:100px;height:auto; }\n\n    .jX4N5P7Dr6{ font-weight:normal; }\n    .Yk4V8N6Vf1{ font-weight:bold; }\n    .zT8B3S1VgD{ font-weight:normal;margin-left:5px; }\n\n    .F0rW6K8yEz{ display:flex;flex-wrap:nowrap;gap:20px;overflow-x:scroll;\n      padding:20px;margin:20px auto;width:90%;box-sizing:border-box; }\n\n    .nQ0V3S1vD7{\n      background:#fff;border-radius:8px;padding:20px;box-shadow:0 4px 6px rgba(0,0,0,.1);\n      text-align:left;position:relative;border-left:4px solid #28a745;width:400px;flex-shrink:0;\n    }\n    .nQ0V3S1vD7 .Fb0W9T8TjZ{ font-weight:bold;margin-bottom:5px;font-size:14px;color:#333; }\n    .nQ0V3S1vD7 .rT9B3G2MdF{ font-size:12px;color:#777;margin-bottom:15px; }\n    .nQ0V3S1vD7 .gP9Z3A2Kn7{ font-size:14px;color:#555;margin-bottom:15px;line-height:1.6; }\n    .nQ0V3S1vD7 .Vh3J2R4Nw1{ font-size:12px;color:#28a745;font-weight:bold; }\n    .nQ0V3S1vD7 .Bz5W3F7Wz2{ margin-top:10px; }\n    .Bz5W3F7Wz2 svg{ width:16px;height:16px;fill:#28a745; }\n\n    .iX7Q3H6Fv4{\n      font-size:14px;margin-top:20px;color:#555;text-align:center;\n      background:linear-gradient(to top,#d3f9d8 0%,#e1f7e0 60%,#f5fdf5 100%);padding:20px;\n    }\n    .iX7Q3H6Fv4 span{ background:#28a745;color:#fff;padding:2px 8px;border-radius:4px; }\n\n    /* Scrollbar horizontal */\n    .F0rW6K8yEz::-webkit-scrollbar{ height:8px; }\n    .F0rW6K8yEz::-webkit-scrollbar-thumb{ background:#28a745;border-radius:10px; }\n    .F0rW6K8yEz::-webkit-scrollbar-track{ background:#f5fdf5; }\n  </style>\n\n  <h1 class=\"d3FsH6IqT4\">Il tuo <span class=\"AaB2Y5Gp9f\">soddisfazione</span> è il nostro successo</h1>\n  <p class=\"RwV2N5Lt0I\">Apprezziamo i vostri commenti</p>\n\n  <div class=\"LaVtZ1Q0xK\">\n    <div class=\"KsF9M8H2Ej\">\n      <img src=\"https://i.imgur.com/EHjNmTM.png\" alt=\"5 stars\">\n    </div>\n    <div class=\"jX4N5P7Dr6\">\n      Trustscore <span class=\"Yk4V8N6Vf1\">4.8 | 1000+</span> recensioni\n    </div>\n  </div>\n</div>",
+        "liquid": "<div class=\"tp-block FgVdQeK8P7\">\n  <style>\n    /* 🔧 ZÉRO ESPACE EN HAUT POUR CETTE SECTION UNIQUEMENT */\n    .tp-block{ margin:0 !important; padding:0 !important; }\n    .tp-block > *:first-child{ margin-top:0 !important; padding-top:0 !important; }\n\n    /* Optionnel : si le thème ajoute un gap interne au wrapper des sections */\n    .tp-block:where(.tp-block){ --section-padding-top: 0px; }\n\n    h1.d3FsH6IqT4{\n      margin-top:0 !important;\n      padding-top:0 !important;\n      font-size:26px;font-weight:bold;color:#333;text-align:center;\n    }\n\n    h1 .AaB2Y5Gp9f{\n      background:linear-gradient(to bottom,#28a745 0%,#d3f9d8 100%);\n      -webkit-background-clip:text;color:transparent;\n    }\n\n    p.RwV2N5Lt0I{ margin-top:5px;font-size:16px;color:#555;text-align:center; }\n\n    .LaVtZ1Q0xK{ display:flex;align-items:center;justify-content:center;\n      font-family:Arial,sans-serif;font-size:14px;color:#333;margin-top:10px; }\n\n    .KsF9M8H2Ej{ display:flex;align-items:center;margin-right:10px; }\n    .KsF9M8H2Ej img{ max-width:100px;width:100px;height:auto; }\n\n    .jX4N5P7Dr6{ font-weight:normal; }\n    .Yk4V8N6Vf1{ font-weight:bold; }\n    .zT8B3S1VgD{ font-weight:normal;margin-left:5px; }\n\n    .F0rW6K8yEz{ display:flex;flex-wrap:nowrap;gap:20px;overflow-x:scroll;\n      padding:20px;margin:20px auto;width:90%;box-sizing:border-box; }\n\n    .nQ0V3S1vD7{\n      background:#fff;border-radius:8px;padding:20px;box-shadow:0 4px 6px rgba(0,0,0,.1);\n      text-align:left;position:relative;border-left:4px solid #28a745;width:400px;flex-shrink:0;\n    }\n    .nQ0V3S1vD7 .Fb0W9T8TjZ{ font-weight:bold;margin-bottom:5px;font-size:14px;color:#333; }\n    .nQ0V3S1vD7 .rT9B3G2MdF{ font-size:12px;color:#777;margin-bottom:15px; }\n    .nQ0V3S1vD7 .gP9Z3A2Kn7{ font-size:14px;color:#555;margin-bottom:15px;line-height:1.6; }\n    .nQ0V3S1vD7 .Vh3J2R4Nw1{ font-size:12px;color:#28a745;font-weight:bold; }\n    .nQ0V3S1vD7 .Bz5W3F7Wz2{ margin-top:10px; }\n    .Bz5W3F7Wz2 svg{ width:16px;height:16px;fill:#28a745; }\n\n    .iX7Q3H6Fv4{\n      font-size:14px;margin-top:20px;color:#555;text-align:center;\n      background:linear-gradient(to top,#d3f9d8 0%,#e1f7e0 60%,#f5fdf5 100%);padding:20px;\n    }\n    .iX7Q3H6Fv4 span{ background:#28a745;color:#fff;padding:2px 8px;border-radius:4px; }\n\n    /* Scrollbar horizontal */\n    .F0rW6K8yEz::-webkit-scrollbar{ height:8px; }\n    .F0rW6K8yEz::-webkit-scrollbar-thumb{ background:#28a745;border-radius:10px; }\n    .F0rW6K8yEz::-webkit-scrollbar-track{ background:#f5fdf5; }\n  </style>\n\n  <h1 class=\"d3FsH6IqT4\">Votre <span class=\"AaB2Y5Gp9f\">satisfaction</span> est notre succès</h1>\n  <p class=\"RwV2N5Lt0I\">Nous apprécions vos commentaires</p>\n\n  <div class=\"LaVtZ1Q0xK\">\n    <div class=\"KsF9M8H2Ej\">\n      <img src=\"https://i.imgur.com/EHjNmTM.png\" alt=\"5 stars\">\n    </div>\n    <div class=\"jX4N5P7Dr6\">\n      Trustscore <span class=\"Yk4V8N6Vf1\">4.8 | 1000+</span> avis\n    </div>\n  </div>\n</div>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -216,7 +206,6 @@
         "item_MTdeLG": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/energie_clarte_mentale_4.png",
             "column_size": "3",
             "title": "Lucie L.",
             "heading_tag": "h4",
@@ -229,7 +218,6 @@
         "item_mQDamF": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/14.jpg",
             "column_size": "3",
             "title": "Joelle D.",
             "heading_tag": "h4",
@@ -242,7 +230,6 @@
         "item_Wpd4i6": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/energie_clarte_mentale_5.jpg",
             "column_size": "3",
             "title": "Patrick G.",
             "heading_tag": "h4",
@@ -255,7 +242,6 @@
         "item_eQy9HE": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Untitled_design_-_2025-03-28T161049.524.webp",
             "column_size": "3",
             "title": "Laure C.",
             "heading_tag": "h4",
@@ -268,7 +254,6 @@
         "item_wRMPDz": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/15.jpg",
             "column_size": "3",
             "title": "Laura P.",
             "heading_tag": "h4",
@@ -374,12 +359,6 @@
           "disabled": true,
           "settings": {}
         },
-        "kaching_bundles_app_block_BmWx6G": {
-          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
-          "settings": {
-            "product": "{{section.settings.product}}"
-          }
-        },
         "liquid_XcXqTN": {
           "type": "liquid",
           "settings": {
@@ -408,7 +387,6 @@
         "image_q9hHbh": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/badge_paiements_5565114d-753d-4825-bb14-1c680c746072.png",
             "alignment": "center",
             "max_width": 320
           }
@@ -416,7 +394,6 @@
         "image_dA7WNq": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/7_clients_sur_10_offrent_un_Pillowa_Ortho_One_a_un_proche_ou_a_unune_amis_400_x_40_px_12.png",
             "alignment": "center",
             "max_width": 500
           }
@@ -427,7 +404,6 @@
             "text_alignment": "start",
             "icon_position": "aligned",
             "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/energie_clarte_mentale_11.png",
             "icon_width": 100,
             "title": "Tecnologia SPE/PEM convalidata dalla ricerca",
             "content": "<p>Il punto di riferimento mondiale per i generatori di idrogeno. La tecnologia richiesta dai laboratori per la sua assoluta purezza. A casa tua, in 3 minuti.</p>",
@@ -452,7 +428,6 @@
         "text_MjEJMk",
         "image_rhJnNQ",
         "quantity_selector_yQLhKw",
-        "kaching_bundles_app_block_BmWx6G",
         "liquid_XcXqTN",
         "image_mcYNA9",
         "buy_buttons_pULgyy",
@@ -486,7 +461,7 @@
         "tab_HkrcAR": {
           "type": "tab",
           "settings": {
-            "title": "Cosa la rende imbattibile",
+            "title": "Ce qui la rend imbattable",
             "content": "<p><strong>Tecnologia che fa la differenza</strong><br/><br/>Generazione rapida di idrogeno grazie a un sistema SPE/PEM avanzato. In soli 3 minuti l’acqua si arricchisce in modo visibile. La camera è progettata per mantenere la massima purezza del processo, senza elementi indesiderati. Solo l’essenziale.</p><p><strong>Materiali pensati per durare</strong><br/><br/>Vetro borosilicato ultra-resistente (ovviamente senza BPA). Base in acciaio inox con LED elegante. Giunti in silicone alimentare. Un design che trasmette qualità: compatto, ergonomico, resistente. Perfetto da portare ovunque.</p><p><strong>Autonomia senza compromessi</strong><br/><br/>USB-C per una ricarica moderna. 10–15 cicli consecutivi. Si ricarica in circa 2 ore. Puoi usarla anche mentre è in carica — la tua routine non aspetta.</p><p><strong>Fatta per te</strong><br/><br/>420 ml nel formato ideale | 22 cm di altezza | 400 g di leggerezza.</p><p><strong>Sicurezza impeccabile</strong><br/><br/>Certificazioni CE & RoHS. Componenti testati in laboratorio. Zero materiali pesanti. Protezione integrata contro surriscaldamento e cortocircuiti. La tua fiducia viene prima di tutto.</p>",
             "page": ""
           }
@@ -494,7 +469,7 @@
         "tab_iCHF9T": {
           "type": "tab",
           "settings": {
-            "title": "Provalo per 30 giorni, senza rischi",
+            "title": "Essayez-le pendant 30 jours, sans risque",
             "content": "<p>Siamo certi che HydroHealth possa migliorare la tua routine quotidiana.<br/><br/>Per questo hai <strong>30 giorni interi per provarlo comodamente a casa</strong>. Nessun impegno.</p><p>Se non ti convince, puoi restituirlo e <strong>ricevere un rimborso completo</strong>.<br/><br/>Semplice, trasparente, senza complicazioni.</p>",
             "page": ""
           }
@@ -502,7 +477,7 @@
         "tab_7JfdJV": {
           "type": "tab",
           "settings": {
-            "title": "Consegna gratuita a domicilio",
+            "title": "Livraison gratuite à domicile",
             "content": "<p>La tua nuova esperienza inizia dal momento dell’ordine.<br/><br/>Spediamo il tuo HydroHealth <strong>gratuitamente</strong>, direttamente a casa tua.</p><p>In base al volume degli ordini, i tempi di consegna stimati sono tra 7<strong> e 10 giorni lavorativi</strong>.</p>",
             "page": ""
           }
@@ -510,7 +485,7 @@
         "tab_nfWewm": {
           "type": "tab",
           "settings": {
-            "title": "Assistenza clienti 7 giorni su 7",
+            "title": "Service clientèle 7j/7",
             "content": "<p>Hai una domanda? <strong>Rispondiamo 7 giorni su 7.</strong><br/><br/>Il nostro team è disponibile ogni giorno, anche la domenica, per aiutarti in qualsiasi momento.</p><p>Ti garantiamo un supporto rapido e personalizzato, perché ogni cliente per noi conta davvero.</p>",
             "page": ""
           }
@@ -518,7 +493,7 @@
         "tab_hyyLAi": {
           "type": "tab",
           "settings": {
-            "title": "Consigli d’uso",
+            "title": "Conseils d'utilisation",
             "content": "<p><strong>Fase 1 — Riempila</strong><br/><br/>Usa solo acqua filtrata o minerale. Niente gas, niente bevande calde o aromatizzate. Solo acqua semplice.</p><p><strong>Fase 2 — Attiva</strong><br/><br/>Un solo pulsante. 3 minuti. Le bollicine si formano e l’acqua si arricchisce davanti ai tuoi occhi.</p><p><strong>Fase 3 — Bevi subito</strong><br/><br/>L’idrogeno tende a disperdersi naturalmente: bevi entro 10–15 minuti per un utilizzo ottimale.</p><p><strong>Fase 4 — Mantieni (senza fatica)</strong><br/><br/>Risciacqua dopo ogni uso.<br/><br/>1–2 volte a settimana: acqua + aceto bianco, avvia un ciclo e risciacqua.<br/><br/>La base elettronica non va immersa in acqua.</p><h3><strong>Frequenza ideale</strong></h3><p>1–3 cicli al giorno, in qualsiasi momento della giornata. Puoi usarla liberamente, tutte le volte che vuoi.</p><h3><strong>Da sapere</strong></h3><p>Acqua filtrata, minerale o osmotizzata.<br/><br/>Evita succhi e bevande zuccherate.<br/><br/>Progettata esclusivamente per migliorare la tua esperienza di idratazione quotidiana.</p>",
             "page": ""
           }
@@ -572,8 +547,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/reduced1.gif",
-        "mobile_image": "shopify://shop_images/reduced1.gif",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -655,9 +628,9 @@
         "section_padding_sides": 20,
         "aria_label": "Comparatif Hydrohealth vs Filler Tradizionali",
         "img_left_alt": "",
-        "fallback_left": "Noi",
+        "fallback_left": "Aurora",
         "img_right_alt": "gli altri",
-        "fallback_right": "gli altri",
+        "fallback_right": "Les autres",
         "pill_color": "#e6f0fa",
         "pill_color_fg": "#ffffff",
         "yes_color": "#117e2c",
@@ -725,8 +698,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/energie_clarte_mentale_33.png",
-        "mobile_image": "shopify://shop_images/energie_clarte_mentale_33.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -917,7 +888,6 @@
           "type": "review",
           "settings": {
             "show_image": true,
-            "image": "shopify://shop_images/ASdNnCQCz.jpg",
             "image_alt": "",
             "stars": 5,
             "title": "Grazie Hydrohealth",
@@ -931,7 +901,6 @@
           "type": "review",
           "settings": {
             "show_image": true,
-            "image": "shopify://shop_images/Screenshot_2025-10-01_175329.webp",
             "image_alt": "",
             "stars": 5,
             "title": "Rapido ed efficace",
@@ -958,7 +927,6 @@
           "type": "review",
           "settings": {
             "show_image": true,
-            "image": "shopify://shop_images/ukVYLOFC9.jpg",
             "image_alt": "",
             "stars": 5,
             "title": "Immediato boost di energia",
@@ -972,7 +940,6 @@
           "type": "review",
           "settings": {
             "show_image": true,
-            "image": "shopify://shop_images/diJ6w1vcw.jpg",
             "image_alt": "",
             "stars": 5,
             "title": "Perfetto per i reni",
@@ -986,7 +953,6 @@
           "type": "review",
           "settings": {
             "show_image": true,
-            "image": "shopify://shop_images/mptaJ_J0e.jpg",
             "image_alt": "",
             "stars": 5,
             "title": "Ottima qualità",
@@ -1000,7 +966,6 @@
           "type": "review",
           "settings": {
             "show_image": true,
-            "image": "shopify://shop_images/8cnGvO99C.jpg",
             "image_alt": "",
             "stars": 5,
             "title": "Gusto più puro",
@@ -1014,7 +979,6 @@
           "type": "review",
           "settings": {
             "show_image": true,
-            "image": "shopify://shop_images/WqbOL4JAU.jpg",
             "image_alt": "",
             "stars": 5,
             "title": "Adoro",
@@ -1028,7 +992,6 @@
           "type": "review",
           "settings": {
             "show_image": true,
-            "image": "shopify://shop_images/YOfvm7HiC.jpg",
             "image_alt": "",
             "stars": 5,
             "title": "Gusto più puro",
@@ -1042,7 +1005,6 @@
           "type": "review",
           "settings": {
             "show_image": true,
-            "image": "shopify://shop_images/Untitled_design_10.webp",
             "image_alt": "",
             "stars": 5,
             "title": "Consegna rapida e conforme",
@@ -1460,8 +1422,8 @@
       ],
       "name": "Reviews Grid",
       "settings": {
-        "heading": "Opinioni dei nostri clienti",
-        "evaluate_text": "Eccellente",
+        "heading": "Avis de nos clients",
+        "evaluate_text": "Excellent",
         "show_global_rating": true,
         "global_rating": "4.8",
         "global_count": "513",
@@ -1469,7 +1431,7 @@
         "label_reviews": "avis",
         "show_trustpilot_logo": true,
         "show_leave_btn": true,
-        "leave_btn_label": "Lascia una recensione",
+        "leave_btn_label": "Laisser un avis",
         "initial_visible": 12,
         "second_wave": 8,
         "enable_modal": true,
