@@ -11,6 +11,31 @@
   "type": "header",
   "name": "Header group",
   "sections": {
+    "header": {
+      "type": "header",
+      "custom_css": [],
+      "settings": {
+        "enable_sticky": false,
+        "hide_on_scroll": true,
+        "logo_max_width": 160,
+        "logo_mobile_max_width": 120,
+        "menu": "main-menu",
+        "sidebar_menu": "",
+        "secondary_menu": "",
+        "menu_open_trigger": "click",
+        "opening_from": "bottom",
+        "layout": "logo_left_navigation_inline",
+        "show_social_media": true,
+        "show_locale_selector": false,
+        "show_country_selector": true,
+        "show_country_flag": true,
+        "show_country_name": true,
+        "transparent_header_text_color": "#1c1c1c",
+        "reduce_padding": true,
+        "background_opacity": 0,
+        "background_blur_radius": 0
+      }
+    },
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
@@ -56,39 +81,14 @@
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#1f3d36",
+        "background": "#e8e1d6",
         "background_gradient": "",
-        "text_color": "#e8e1d6"
-      }
-    },
-    "header": {
-      "type": "header",
-      "custom_css": [],
-      "settings": {
-        "enable_sticky": false,
-        "hide_on_scroll": true,
-        "logo_max_width": 160,
-        "logo_mobile_max_width": 120,
-        "menu": "main-menu",
-        "sidebar_menu": "",
-        "secondary_menu": "",
-        "menu_open_trigger": "click",
-        "opening_from": "bottom",
-        "layout": "logo_left_navigation_inline",
-        "show_social_media": true,
-        "show_locale_selector": false,
-        "show_country_selector": true,
-        "show_country_flag": true,
-        "show_country_name": true,
-        "transparent_header_text_color": "#1c1c1c",
-        "reduce_padding": true,
-        "background_opacity": 0,
-        "background_blur_radius": 0
+        "text_color": "#1f3d36"
       }
     }
   },
   "order": [
-    "announcement-bar",
-    "header"
+    "header",
+    "announcement-bar"
   ]
 }
