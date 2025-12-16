@@ -23,7 +23,7 @@
             "icon_background_type": "circle",
             "icon_background": "#e6f0fa",
             "icon_color": "#1a1a1a",
-            "title": "Consegna gratuita",
+            "title": "Livraison gratuite",
             "content": ""
           }
         },
@@ -36,7 +36,7 @@
             "icon_background_type": "circle",
             "icon_background": "#e6f0fa",
             "icon_color": "#1a1a1a",
-            "title": "Soddisfatti o rimborsati",
+            "title": "Satisfait ou remboursé",
             "content": ""
           }
         },
@@ -49,7 +49,7 @@
             "icon_background_type": "circle",
             "icon_background": "#e6f0fa",
             "icon_color": "#1a1a1a",
-            "title": "Servizio clienti 7 giorni su 7",
+            "title": "Service clientèle 7j/7",
             "content": ""
           }
         },
@@ -62,7 +62,7 @@
             "icon_background_type": "circle",
             "icon_background": "#e6f0fa",
             "icon_color": "#1a1a1a",
-            "title": "Pagamento sicuro",
+            "title": "Paiement sécurisé",
             "content": ""
           }
         }
@@ -93,7 +93,7 @@
           "settings": {
             "image_width": 150,
             "heading_size": "h3",
-            "title": "Iscriviti per ricevere le nostre offerte e novità",
+            "title": "Inscrivez-vous pour recevoir nos offres et nos actualités",
             "content": ""
           }
         },
@@ -108,8 +108,8 @@
         "text": {
           "type": "text",
           "settings": {
-            "title": "Contattaci",
-            "content": "<p><strong>Servizio clienti</strong> : contact@hydrohealth.fr</p><p><strong>Orari :</strong> Dal lun al ven dalle 9:00 alle 12:00 e dalle 14:00 alle 18:00 / Sabato e domenica dalle 10:00 alle 12:00</p>",
+            "title": "Contactez-nous",
+            "content": "<p><strong>Service clientèle : </strong>contact@aurora.fr<br/><br/><strong>Horaires :</strong> Du lun au ven de 9h00 à 12h00 et de 14h00 à 18h00 / Sam et dim de 10h00 à 12h00</p>",
             "enable_follow_on_shop": false
           }
         }
