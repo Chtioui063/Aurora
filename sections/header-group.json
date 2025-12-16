@@ -56,9 +56,9 @@
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#e6f0fa",
+        "background": "#1f3d36",
         "background_gradient": "",
-        "text_color": "#1a1a1a"
+        "text_color": "#ffffff"
       }
     },
     "header": {
@@ -67,7 +67,6 @@
       "settings": {
         "enable_sticky": false,
         "hide_on_scroll": true,
-        "logo": "shopify://shop_images/Copy_of_hydrohealth_logo.webp",
         "logo_max_width": 160,
         "logo_mobile_max_width": 120,
         "menu": "main-menu",
