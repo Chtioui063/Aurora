@@ -82,15 +82,15 @@
       ],
       "name": "Logo list",
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "stack_mobile": false,
-        "title": "",
+        "title": "Vu sur :",
         "content": "",
         "text_alignment": "center",
         "items_per_row": 4,
         "background": "",
         "background_gradient": "",
-        "text_color": "#1c1c1c",
+        "text_color": "#e8e1d6",
         "heading_color": "",
         "heading_gradient": "",
         "logo_item_background": "",
@@ -114,8 +114,69 @@
         "overlay_opacity": 0
       }
     },
+    "multi_column_AQUkFx": {
+      "type": "multi-column",
+      "blocks": {
+        "item_wdWyPb": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/1217.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_LhBFig": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image...</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_JdJP8A": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image...</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_wdWyPb",
+        "item_LhBFig",
+        "item_JdJP8A"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "before_after_image_3BCNVX": {
       "type": "before-after-image",
+      "disabled": true,
       "name": "Before/after image",
       "settings": {
         "full_width": true,
@@ -1400,6 +1461,7 @@
     "image_with_text_overlay_FPxaiF",
     "logo_list_7bQW9A",
     "image_with_text_overlay_wtFgTy",
+    "multi_column_AQUkFx",
     "before_after_image_3BCNVX",
     "custom_liquid_3TGkGd",
     "multi_column_eYTCC7",
