@@ -219,10 +219,11 @@
         "item_MTdeLG": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/14.jpg",
             "column_size": "3",
             "title": "Lucie L.",
             "heading_tag": "h4",
-            "content": "<p><em>« Lo consiglio vivamente!! Davvero, sento la differenza. Non ho più quella stanchezza improvvisa che mi viene dopo aver bevuto il caffè. Ho 45 anni e mi sento meglio rispetto a 5 anni fa. La mia pelle è migliorata, così come il mio umore. È diventato il mio rituale quotidiano, GRAZIE! »</em></p>",
+            "content": "<p><em>«  Très simple à utiliser et avec de vrais effets. J’en ai mis à plusieurs personnes autour de moi et tous ont eu des retours positifs. Personnellement, j’utilise ces patches en continu sur l’oreille et je ressens clairement une différence »</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -231,10 +232,11 @@
         "item_mQDamF": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/15.jpg",
             "column_size": "3",
             "title": "Joelle D.",
             "heading_tag": "h4",
-            "content": "<p><em>« Prima, ogni mattina era la stessa storia: gonfiore, mal di pancia. Da quando bevo quest'acqua, tutto si è calmato. Il mio stomaco è leggero, le mie giornate più serene. Non pensavo che un gesto così semplice potesse cambiare così tanto le cose »</em></p>",
+            "content": "<p><em>« Le kit est simple mais vraiment pratique. Les patchs sont de très bonne qualité et tiennent parfaitement en place. Je l’ai toujours dans mon sac pour n’importe quelle situation. Je le rachèterai sans hésiter »</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -243,10 +245,11 @@
         "item_Wpd4i6": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/16.jpg",
             "column_size": "3",
             "title": "Patrick G.",
             "heading_tag": "h4",
-            "content": "<p><em>« I miei dolori articolari sono diminuiti e mi riprendo meglio dopo lo sport. »</em></p>",
+            "content": "<p><em>« Outil efficace et pratique pour soulager les douleurs. L’utilisation est simple et permet une stimulation ciblée. On sent clairement les bienfaits, notamment sur la circulation et les tensions »</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -255,10 +258,11 @@
         "item_eQy9HE": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/17.jpg",
             "column_size": "3",
             "title": "Laure C.",
             "heading_tag": "h4",
-            "content": "<p><em>« Dopo due settimane, bisogna essere onesti: cambia davvero qualcosa. Avevo letto alcune cose sui reni, quindi ho voluto provare... e il risultato è sorprendente. Mi sento leggera, in forma. A volte sono proprio le cose più semplici a funzionare meglio. »</em></p>",
+            "content": "<p><em>« Produit génial, très efficace, avec une excellente adhérence. Il tient parfaitement et fait vraiment le travail »</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -267,10 +271,11 @@
         "item_wRMPDz": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/18.jpg",
             "column_size": "3",
             "title": "Laura P.",
             "heading_tag": "h4",
-            "content": "<p>« La borraccia è super pratica, la porto ovunque. La mia vita quotidiana è cambiata. »</p>",
+            "content": "<p><em>« Très doux pour la peau et tient extrêmement bien. Effet ressenti rapidement »</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -659,7 +664,7 @@
         "fallback_right": "Les autres",
         "pill_color": "#1f3d36",
         "pill_color_fg": "#e8e1d6",
-        "yes_color": "#1f3d36",
+        "yes_color": "#00a341",
         "no_color": "#dddddd",
         "font_stack": "\"Montserrat\", \"Segoe UI\", Arial, sans-serif",
         "radius": 18,
