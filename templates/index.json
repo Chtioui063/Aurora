@@ -120,7 +120,7 @@
         "item_wdWyPb": {
           "type": "item",
           "settings": {
-            "video": "shopify://files/videos/1217.mp4",
+            "video": "shopify://files/videos/Ear seeds to help with CONFIDENCE How 🥹 Ear seeds can help promote confidence by calming your nervous system making you feel more balanced and grounded. As you feel more in tune with yourself the less you’ll wor-v.mp4",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -133,10 +133,11 @@
         "item_LhBFig": {
           "type": "item",
           "settings": {
+            "video": "shopify://files/videos/1217(1)-vmake.mp4",
             "column_size": "3",
-            "title": "Column title",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image...</p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -145,10 +146,11 @@
         "item_JdJP8A": {
           "type": "item",
           "settings": {
+            "video": "shopify://files/videos/1217(2).mp4",
             "column_size": "3",
-            "title": "Column title",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image...</p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -565,6 +567,19 @@
         "overlay_opacity": 30
       }
     },
+    "custom_liquid_FUTEaX": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": true,
+        "liquid": "<style>\n  .custom-waves-divider {\n    position: relative;\n    background-color: #fff; /* couleur au-dessus */\n    overflow: hidden;\n    line-height: 0;\n  }\n\n  .custom-waves-divider svg {\n    display: block;\n    width: 100%;\n    height: 120px;\n    transform: rotate(0deg); /* vague vers le bas */\n  }\n\n  .custom-waves-divider path {\n    fill: #E8E1D6; /* couleur de la vague */\n  }\n\n  /* Mobile : vague un peu moins haute */\n  @media (max-width: 768px) {\n    .custom-waves-divider svg {\n      height: 35px;\n    }\n  }\n</style>\n\n<div class=\"custom-waves-divider\">\n  <svg viewBox=\"0 0 1440 120\" xmlns=\"http://www.w3.org/2000/svg\" preserveAspectRatio=\"none\">\n    <path d=\"\n      M0,40\n      C120,80 240,0 360,30\n      C480,60 600,100 720,70\n      C840,40 960,0 1080,30\n      C1200,60 1320,100 1440,70\n      L1440,120\n      L0,120\n      Z\">\n    </path>\n  </svg>\n</div>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "comparison_table_automatical_VxcgzW": {
       "type": "comparison-table_automatical",
       "blocks": {
@@ -630,11 +645,10 @@
       "settings": {
         "bg_size": "cover",
         "bg_position": "center",
-        "bg_image_mobile": "shopify://shop_images/AuroraRitual_6.png",
         "bg_size_mobile": "cover",
         "bg_position_mobile": "bottom",
         "bg_repeat": "no-repeat",
-        "bg_color": "",
+        "bg_color": "#e8e1d6",
         "section_padding_top": 40,
         "section_padding_bottom": 40,
         "section_padding_sides": 20,
@@ -643,8 +657,8 @@
         "fallback_left": "Aurora",
         "img_right_alt": "gli altri",
         "fallback_right": "Les autres",
-        "pill_color": "#e8e1d6",
-        "pill_color_fg": "#ffffff",
+        "pill_color": "#1f3d36",
+        "pill_color_fg": "#e8e1d6",
         "yes_color": "#1f3d36",
         "no_color": "#dddddd",
         "font_stack": "\"Montserrat\", \"Segoe UI\", Arial, sans-serif",
@@ -1468,6 +1482,7 @@
     "featured_product_E3J8Yb",
     "tabs_8QN8pQ",
     "image_with_text_overlay_d7Rcpt",
+    "custom_liquid_FUTEaX",
     "comparison_table_automatical_VxcgzW",
     "image_with_text_overlay_r69c9Q",
     "rich_text_YqmyMw",
