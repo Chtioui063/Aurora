@@ -85,7 +85,7 @@
         "full_width": true,
         "stack_mobile": false,
         "title": "",
-        "content": "<p><strong>Vu sur :</strong></p>",
+        "content": "",
         "text_alignment": "center",
         "items_per_row": 4,
         "background": "",
