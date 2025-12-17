@@ -567,8 +567,9 @@
       "settings": {
         "bg_size": "cover",
         "bg_position": "center",
+        "bg_image_mobile": "shopify://shop_images/AuroraRitual_6.png",
         "bg_size_mobile": "cover",
-        "bg_position_mobile": "center",
+        "bg_position_mobile": "bottom",
         "bg_repeat": "no-repeat",
         "bg_color": "",
         "section_padding_top": 40,
