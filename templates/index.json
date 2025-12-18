@@ -90,7 +90,7 @@
         "items_per_row": 4,
         "background": "",
         "background_gradient": "",
-        "text_color": "#e8e1d6",
+        "text_color": "#c4bdb2",
         "heading_color": "",
         "heading_gradient": "",
         "logo_item_background": "",
@@ -742,7 +742,7 @@
         "richtext_NQnDWm": {
           "type": "richtext",
           "settings": {
-            "content": "<p><strong>Vous méritez mieux que de vivre sous médicaments.</strong></p><p>Vous méritez de vous réveiller sans avoir peur de la prochaine crise.<br/><br/>Vous méritez de passer une journée entière sans avaler de cachet.<br/><br/>Vous méritez de ne plus détruire votre estomac, votre foie, votre corps.</p><p><strong>AuroraRitual n'est pas une pilule miracle.</strong><br/><br/>C'est une alternative naturelle qui fonctionne vraiment.</p><p><strong>30 jours pour essayer. Ou vous êtes remboursée.</strong></p><p>Qu'avez-vous à perdre ? À part vos migraines.</p>"
+            "content": "<p><strong>Vous méritez mieux que de vivre sous médicaments. </strong></p><p>Vous méritez de vous réveiller sans avoir peur de la prochaine crise.<br/><br/>Vous méritez de passer une journée entière sans avaler de cachet.<br/><br/>Vous méritez de ne plus détruire votre estomac, votre foie, votre corps.</p><p><strong>AuroraRitual n'est pas une pilule miracle.</strong><br/><br/>C'est une alternative naturelle qui fonctionne vraiment.</p><p><strong>30 jours pour essayer. Ou vous êtes remboursée.</strong></p><p>Qu'avez-vous à perdre ? À part vos migraines.</p>"
           }
         }
       },

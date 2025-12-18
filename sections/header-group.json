@@ -43,28 +43,28 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Offerta speciale di fine anno: il quarto è in omaggio",
+            "text": "Offre spéciale de fin d'année",
             "url": ""
           }
         },
         "message_TMG3nK": {
           "type": "message",
           "settings": {
-            "text": "Pagamento sicuro al 100%",
+            "text": "Paiement 100 % sécurisé",
             "url": ""
           }
         },
         "message_EwT3Na": {
           "type": "message",
           "settings": {
-            "text": "Soddisfatti o rimborsati",
+            "text": "Satisfait ou remboursé",
             "url": ""
           }
         },
         "message_U4MTAR": {
           "type": "message",
           "settings": {
-            "text": "Consegna gratuita a domicilio",
+            "text": "Livraison premium gratuite à domicile",
             "url": ""
           }
         }
