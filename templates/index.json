@@ -575,9 +575,9 @@
         "feature_BcCfWg": {
           "type": "feature",
           "settings": {
-            "label": "Riduzione dello stress ossidativo",
+            "label": "Soulagement rapide",
             "title_bold": true,
-            "subtext": "L'idrogeno molecolare neutralizza i radicali liberi a livello cellulare",
+            "subtext": "Action instantané grâce à l'acupression ciblée.",
             "left_yes": true,
             "right_yes": false
           }
@@ -585,9 +585,9 @@
         "feature_riBX6E": {
           "type": "feature",
           "settings": {
-            "label": "Sostegno al drenaggio naturale",
+            "label": "Action continue",
             "title_bold": true,
-            "subtext": "Aiuta il corpo a eliminare più facilmente le tossine per alleviare la stanchezza",
+            "subtext": "Adhésion médicale jusqu’à 5 jours : la stimulation continue même pendant le sommeil",
             "left_yes": true,
             "right_yes": false
           }
@@ -595,9 +595,9 @@
         "feature_zdPVkh": {
           "type": "feature",
           "settings": {
-            "label": "Energia & lucidità mentale",
+            "label": "Adhésion ultra-résistante",
             "title_bold": true,
-            "subtext": "Meno stanchezza, una mente più leggera ogni giorno",
+            "subtext": "Adhésif médical hypoallergénique tient 5 jours même sous la douche et pendant le sport",
             "left_yes": true,
             "right_yes": false
           }
@@ -605,9 +605,9 @@
         "feature_TdYzyx": {
           "type": "feature",
           "settings": {
-            "label": "Nessun filtro – zero manutenzione",
+            "label": "Discrétion totale",
             "title_bold": true,
-            "subtext": "Nessun materiale di consumo, nessun costo nascosto: funziona per tutta la vita",
+            "subtext": "Transparents, fins et quasi invisibles. Personne ne remarque que vous les portez",
             "left_yes": true,
             "right_yes": true
           }
@@ -615,9 +615,9 @@
         "feature_wTXzwQ": {
           "type": "feature",
           "settings": {
-            "label": "Idratazione cellulare ottimizzata",
+            "label": "Stress & sommeil",
             "title_bold": true,
-            "subtext": "La nostra acqua è arricchita con idrogeno per un assorbimento cellulare superiore.",
+            "subtext": "Apaise le système nerveux pour des journées plus calmes et des nuits profondément réparatrices",
             "left_yes": true,
             "right_yes": false
           }
@@ -644,6 +644,7 @@
         "aria_label": "Comparatif Hydrohealth vs Filler Tradizionali",
         "img_left_alt": "",
         "fallback_left": "Aurora",
+        "img_right": "shopify://shop_images/AuroraRitual_18.png",
         "img_right_alt": "gli altri",
         "fallback_right": "Les autres",
         "pill_color": "#1f3d36",
@@ -739,7 +740,7 @@
         "richtext_NQnDWm": {
           "type": "richtext",
           "settings": {
-            "content": "<p><strong>Progettato con l’esperienza di ingegneri specializzati.</strong><br/><br/>Dopo <strong>quattro anni di ricerca e sei prototipi</strong>, HydroHealth nasce dal lavoro di un team riconosciuto nel campo dell’ingegneria ambientale e dei sistemi di filtrazione.</p><p>“Un dispositivo che porta la tecnologia dell’idrogeno a un livello più semplice e accessibile per l’uso quotidiano.”</p>"
+            "content": "<p><strong>Vous méritez mieux que de vivre sous médicaments.</strong></p><p>Vous méritez de vous réveiller sans avoir peur de la prochaine crise.<br/><br/>Vous méritez de passer une journée entière sans avaler de cachet.<br/><br/>Vous méritez de ne plus détruire votre estomac, votre foie, votre corps.</p><p><strong>AuroraRitual n'est pas une pilule miracle.</strong><br/><br/>C'est une alternative naturelle qui fonctionne vraiment.</p><p><strong>30 jours pour essayer. Ou vous êtes remboursée.</strong></p><p>Qu'avez-vous à perdre ? À part vos migraines.</p>"
           }
         }
       },
