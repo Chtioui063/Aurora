@@ -765,15 +765,15 @@
         "item_mLpMBV": {
           "type": "item",
           "settings": {
-            "title": "Che cos'è l'acqua idrogenata?",
-            "content": "<p>L'acqua idrogenata è semplicemente acqua che è stata arricchita con molecole di idrogeno aggiuntive, trasformando la normale H2O in una bevanda benefica per la salute.</p>"
+            "title": "Est-ce que ça marche ou c'est encore un effet placebo ?",
+            "content": "<p>On vous comprend. Vous avez été déçue tellement de fois. Voici les faits : </p><p><strong>+50000 femmes</strong> soulagées en Europe </p><p><strong>Basé sur 2000 ans</strong> de médecine traditionnelle chinoise</p><p><strong>Les points d'acupression</strong> sont des zones nerveuses réelles, pas de la magie, de la science</p><p>Mais ne nous croyez pas sur parole.</p><p><strong>Essayez pendant 30 jours</strong>. Si vous ne sentez RIEN, on vous rembourse. Pourquoi proposerions nous ça si ça ne marchait pas ? </p>"
           }
         },
         "item_beHi7B": {
           "type": "item",
           "settings": {
-            "title": "Come pulire la mia bottiglia HydroHealth?",
-            "content": "<p>Per la <strong>pulizia quotidiana</strong> è sufficiente un semplice risciacquo con acqua calda. </p><p><br/>Per una <strong>pulizia più accurata</strong>, aggiungi un po' di aceto bianco o bicarbonato, lascia agire per qualche minuto e poi risciacqua. </p><p>La base elettronica <strong>non deve</strong> mai essere immersa in acqua: è sufficiente pulirla con un panno umido. </p><p>→ Pulizia rapida, nessuna manutenzione complicata.</p>"
+            "title": "Ça fait mal ? Je ne supporte pas la douleur...",
+            "content": "<p>Non. Zéro douleur.</p><p>Vous sentez une légère pression quand vous placez le patch. C'est normal. C'est le signe que le point d'acupression est activé.</p><p>Mais ce n'est PAS douloureux. C'est une sensation de pression agréable, comme quand on vous masse.</p><p>Résultat : 98% de nos clients disent que c'est confortable ou imperceptible.</p>"
           }
         },
         "item_keRyNP": {
