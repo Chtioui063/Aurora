@@ -1212,9 +1212,9 @@
             "show_image": false,
             "image_alt": "",
             "stars": 5,
-            "title": "Aiuta la digestione",
-            "text": "L'acqua ha un sapore diverso e aiuta molto lo stomaco",
-            "name": "Alicia.",
+            "title": "",
+            "text": "comme décrit.",
+            "name": "Alicia",
             "verified": true,
             "date": "2025-09-19"
           }
@@ -1225,8 +1225,8 @@
             "show_image": false,
             "image_alt": "",
             "stars": 5,
-            "title": "Prodotto molto bello",
-            "text": "Facile da usare. Ottimo prodotto in acciaio inossidabile + vetro",
+            "title": "Bien",
+            "text": "",
             "name": "Catherine F.",
             "verified": true,
             "date": "2025-11-07"
@@ -1238,11 +1238,11 @@
             "show_image": false,
             "image_alt": "",
             "stars": 5,
-            "title": "Costruzione premium",
-            "text": "Acqua pura, splendida luce LED blu, batteria a lunga durata",
-            "name": "Viviane M.",
+            "title": "Merci",
+            "text": "Merci, reçu à temps et conforme à la description.",
+            "name": "Ouafa",
             "verified": true,
-            "date": "2025-10-15"
+            "date": "2025-12-15"
           }
         },
         "review_4jxX8c": {
@@ -1251,11 +1251,11 @@
             "show_image": false,
             "image_alt": "",
             "stars": 5,
-            "title": "Delizioso da bere",
-            "text": "È delizioso. Sembra che starò bene",
-            "name": "Jacqueline R.",
+            "title": "Super",
+            "text": "avec plaisir, à refaire",
+            "name": "Bibi",
             "verified": true,
-            "date": "2025-10-20"
+            "date": "2025-12-20"
           }
         },
         "review_VyLnky": {
@@ -1264,8 +1264,8 @@
             "show_image": false,
             "image_alt": "",
             "stars": 5,
-            "title": "Energia immediata",
-            "text": "Acqua rinfrescante, nuova energia",
+            "title": "très bien",
+            "text": "très bien pour débuter, bonne qualité",
             "name": "Amélie S.",
             "verified": true,
             "date": "2025-09-27"
@@ -1276,12 +1276,12 @@
           "settings": {
             "show_image": false,
             "image_alt": "",
-            "stars": 5,
-            "title": "Nessun sapore strano",
-            "text": "Grande formato, facile da usare, nessun sapore sgradevole",
+            "stars": 4,
+            "title": "Moyen",
+            "text": "parfois la graine reste dans le support et ne vient pas avec le patch",
             "name": "Élise D.",
             "verified": true,
-            "date": "2025-10-09"
+            "date": "2025-12-09"
           }
         },
         "review_f93CGp": {
@@ -1290,9 +1290,9 @@
             "show_image": false,
             "image_alt": "",
             "stars": 4,
-            "title": "Conforme",
-            "text": "Ottimo dispositivo, conforme alla descrizione",
-            "name": "Deborah B.",
+            "title": "Attention",
+            "text": "si l’endroit de stockage est chaud, ils peuvent perdre de l’efficacité",
+            "name": "Jayne S.",
             "verified": true,
             "date": "2025-11-04"
           }
@@ -1302,12 +1302,12 @@
           "settings": {
             "show_image": false,
             "image_alt": "",
-            "stars": 5,
-            "title": "Bolle visibili",
-            "text": "In 3 minuti tante bollicine e un gusto gradevole",
-            "name": "Damien G.",
+            "stars": 3,
+            "title": "Peu pratique",
+            "text": "Assez peu pratique lors d’une utilisation rapide.",
+            "name": "Eddie R.",
             "verified": true,
-            "date": "2025-10-29"
+            "date": "2025-12-02"
           }
         },
         "review_3CL46Y": {
@@ -1316,8 +1316,8 @@
             "show_image": false,
             "image_alt": "",
             "stars": 5,
-            "title": "Molto apprezzata",
-            "text": "Acqua purificata, pratica da usare",
+            "title": "Ok",
+            "text": "Bien emballé. Livraison rapide.",
             "name": "Nathalie G.",
             "verified": true,
             "date": "2025-10-29"
@@ -1329,11 +1329,11 @@
             "show_image": false,
             "image_alt": "",
             "stars": 5,
-            "title": "Ottimo rapporto qualità-prezzo",
-            "text": "Funziona molto bene, nessuna perdita, elegante",
+            "title": "Bon qualité prix",
+            "text": "Qualité",
             "name": "Anthony R.",
             "verified": true,
-            "date": "2025-09-24"
+            "date": "Il y a 9 minutes"
           }
         },
         "review_Bew7VV": {
@@ -1341,51 +1341,12 @@
           "settings": {
             "show_image": false,
             "image_alt": "",
-            "stars": 5,
-            "title": "Gusto pulito",
-            "text": "Funziona correttamente",
+            "stars": 4,
+            "title": "Bon produit",
+            "text": "",
             "name": "Alessio R.",
             "verified": true,
             "date": "2025-10-07"
-          }
-        },
-        "review_QhftDx": {
-          "type": "review",
-          "settings": {
-            "show_image": false,
-            "image_alt": "",
-            "stars": 4,
-            "title": "Robusto e ben fatto",
-            "text": "Acqua pulita e rinfrescante",
-            "name": "Cristina M.",
-            "verified": true,
-            "date": "2025-09-16"
-          }
-        },
-        "review_zGaWTz": {
-          "type": "review",
-          "settings": {
-            "show_image": false,
-            "image_alt": "",
-            "stars": 5,
-            "title": "Routine quotidiana",
-            "text": "Gusto fresco, formato perfetto, fa parte della mia routine quotidiana",
-            "name": "Henri R.",
-            "verified": true,
-            "date": "2025-09-22"
-          }
-        },
-        "review_UwHT7D": {
-          "type": "review",
-          "settings": {
-            "show_image": false,
-            "image_alt": "",
-            "stars": 5,
-            "title": "Ideale per lo sport",
-            "text": "Design pratico, perfetto per lo sport",
-            "name": "Sylvain S.",
-            "verified": true,
-            "date": "2025-10-11"
           }
         }
       },
@@ -1425,10 +1386,7 @@
         "review_k6QriX",
         "review_3CL46Y",
         "review_hxCYFJ",
-        "review_Bew7VV",
-        "review_QhftDx",
-        "review_zGaWTz",
-        "review_UwHT7D"
+        "review_Bew7VV"
       ],
       "name": "Reviews Grid",
       "settings": {
