@@ -29,8 +29,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/AuroraRitual_12.png",
-        "mobile_image": "shopify://shop_images/AuroraRitual_12.png",
+        "image": "shopify://shop_images/AuroraRitual_4.png",
+        "mobile_image": "shopify://shop_images/AuroraRitual_4.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -727,8 +727,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/AuroraRitual_19.png",
-        "mobile_image": "shopify://shop_images/AuroraRitual_19.png",
+        "image": "shopify://shop_images/AuroraRitual_d8118f97-eee2-4621-8d68-0b020d37c9af.png",
+        "mobile_image": "shopify://shop_images/AuroraRitual_1_c517220b-b010-4cbb-bf13-1b67d5f353e6.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -738,17 +738,6 @@
     },
     "rich_text_CAdgxi": {
       "type": "rich-text",
-      "blocks": {
-        "richtext_NQnDWm": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p><strong>Vous méritez mieux que de vivre sous médicaments. <br/></strong>Vous méritez de vous réveiller sans avoir peur de la prochaine crise.<br/>Vous méritez de passer une journée entière sans avaler de cachet.<br/>Vous méritez de ne plus détruire votre estomac, votre foie, votre corps.</p><p><strong>AuroraRitual n'est pas une pilule miracle.</strong><br/><br/>C'est une alternative naturelle qui fonctionne vraiment.</p><p><strong>30 jours pour essayer. Ou vous êtes remboursée.<br/></strong>Qu'avez-vous à perdre ? À part vos migraines.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "richtext_NQnDWm"
-      ],
       "name": "Rich text",
       "settings": {
         "full_width": true,
