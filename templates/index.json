@@ -947,11 +947,11 @@
             "image": "shopify://shop_images/y7g-qy8Wq_mid.jpg",
             "image_alt": "",
             "stars": 5,
-            "title": "Perfetto per i reni",
-            "text": "Ottima fattura in acciaio inossidabile/vetro. Mi sento molto meno stanca e sento che i miei reni funzionano a pieno regime.",
+            "title": "Génial et bon prix",
+            "text": "Ils ne se décollent pas du tout. Même après la douche !",
             "name": "Glory .",
             "verified": true,
-            "date": "2025-09-30"
+            "date": "2025-12-03"
           }
         },
         "review_PTLq7K": {
@@ -961,8 +961,8 @@
             "image": "shopify://shop_images/P4crC9us9x_mid.jpg",
             "image_alt": "",
             "stars": 5,
-            "title": "Ottima qualità",
-            "text": "Funziona molto bene, confezione perfetta. Fa molto bene alla salute",
+            "title": "Excellent",
+            "text": "Produit excellent. L'adhésif fixe très bien et dure longtemps.",
             "name": "Leydi Viviana L.",
             "verified": true,
             "date": "2025-11-01"
@@ -975,9 +975,9 @@
             "image": "shopify://shop_images/fntcfUK8c_mid.jpg",
             "image_alt": "",
             "stars": 5,
-            "title": "Gusto più puro",
-            "text": "Il gusto dell'acqua è delizioso, dà una sensazione di purezza e leggerezza. Sento che quest'acqua fa bene alla mia salute.",
-            "name": "Tatiana M.",
+            "title": "Super satisfaisant",
+            "text": "Parfait, ça ne décolle pas",
+            "name": "Priscilla B.",
             "verified": true,
             "date": "2025-10-06"
           }
@@ -989,9 +989,9 @@
             "image": "shopify://shop_images/VoZaxZ5S0_mid.jpg",
             "image_alt": "",
             "stars": 5,
-            "title": "Adoro",
-            "text": "Ottimo prodotto, lo adoro",
-            "name": "Karine L.",
+            "title": "Magnifique",
+            "text": "Colle bien à condition de bien nettoyer la zone avant",
+            "name": "Clem",
             "verified": true,
             "date": "2025-09-16"
           }
@@ -1003,8 +1003,8 @@
             "image": "shopify://shop_images/bKajkeSQo_mid.jpg",
             "image_alt": "",
             "stars": 5,
-            "title": "Gusto più puro",
-            "text": "Il gusto dell'acqua è delizioso, dà una sensazione di purezza e leggerezza. Sento che quest'acqua fa bene alla mia salute.",
+            "title": "J'adore",
+            "text": "Je l'adore ! Je l'utilise souvent pour traiter les maux de têtes",
             "name": "Tatiana M.",
             "verified": true,
             "date": "2025-10-21"
@@ -1017,11 +1017,11 @@
             "image": "shopify://shop_images/odsnl3NT6_mid.jpg",
             "image_alt": "",
             "stars": 5,
-            "title": "Consegna rapida e conforme",
-            "text": "La bottiglia è arrivata in anticipo. Funziona bene. Sono soddisfatta",
+            "title": "Bon",
+            "text": "Avec la bonne méthode, ça avance vraiment bien. Je ne pensais pas que ça aiderait autant, plus que prévu!",
             "name": "Marlene G.",
             "verified": true,
-            "date": "2025-11-11"
+            "date": "Il y a 6 minutes"
           }
         },
         "review_arR9wy": {
@@ -1030,9 +1030,9 @@
             "show_image": true,
             "image_alt": "",
             "stars": 5,
-            "title": "Incredibile",
-            "text": "La borraccia è super pratica, la porto ovunque. La mia vita quotidiana è cambiata.",
-            "name": "Laura P.",
+            "title": "Bien",
+            "text": "Conforme à mes attentes",
+            "name": "Sev",
             "verified": true,
             "date": "2025-10-18"
           }
@@ -1043,9 +1043,9 @@
             "show_image": false,
             "image_alt": "",
             "stars": 4,
-            "title": "Qualità sostenibile",
-            "text": "Sembra di buona qualità anche dopo diversi mesi di utilizzo.",
-            "name": "Robert M.",
+            "title": "Merci",
+            "text": "Produit parfaitement conditionné (utilisation rapide pas très pratique)",
+            "name": "Eddie R.",
             "verified": true,
             "date": "2025-10-02"
           }
@@ -1056,9 +1056,9 @@
             "show_image": false,
             "image_alt": "",
             "stars": 5,
-            "title": "Semplice e pratico",
-            "text": "Ottimo prodotto, veloce e ricaricabile",
-            "name": "Yolanda R.",
+            "title": "Pratique",
+            "text": "Conforme à la description, bien emballé, livraison rapide",
+            "name": "Patrice F.",
             "verified": true,
             "date": "2025-10-31"
           }
@@ -1069,9 +1069,9 @@
             "show_image": false,
             "image_alt": "",
             "stars": 5,
-            "title": "Facilissimo",
-            "text": "Ottimo prodotto, funziona perfettamente",
-            "name": "Jessica M.",
+            "title": "Efficace",
+            "text": "Très efficace !",
+            "name": "Pascal H.",
             "verified": true,
             "date": "2025-11-06"
           }
@@ -1082,8 +1082,8 @@
             "show_image": false,
             "image_alt": "",
             "stars": 4,
-            "title": "Buona prima impressione",
-            "text": "L'acqua non ha un sapore particolare, da vedere nel tempo",
+            "title": "",
+            "text": "Fonctionnels",
             "name": "Rose D.",
             "verified": true,
             "date": "2025-09-29"
@@ -1095,8 +1095,8 @@
             "show_image": false,
             "image_alt": "",
             "stars": 5,
-            "title": "Più energia",
-            "text": "Adoro la sensazione del vetro al tatto e sento già la differenza di energia",
+            "title": "Super",
+            "text": "Ils collent bien",
             "name": "Madison P.",
             "verified": true,
             "date": "2025-11-10"
@@ -1108,9 +1108,9 @@
             "show_image": false,
             "image_alt": "",
             "stars": 5,
-            "title": "Ottimo imballaggio",
-            "text": "Prodotto di alta qualità, ben confezionato e consegna rapida",
-            "name": "Claire B.",
+            "title": "Facile",
+            "text": "Excellents et facile à positionner",
+            "name": "massimiliano S.",
             "verified": true,
             "date": "2025-10-14"
           }
@@ -1120,10 +1120,10 @@
           "settings": {
             "show_image": false,
             "image_alt": "",
-            "stars": 5,
-            "title": "Fa il suo dovere",
-            "text": "Prodotto ricevuto nei tempi previsti, soddisfatto",
-            "name": "Laurent P.",
+            "stars": 4,
+            "title": "OK",
+            "text": "Fonctionnels",
+            "name": "Franco P.",
             "verified": true,
             "date": "2025-11-02"
           }
@@ -1134,9 +1134,9 @@
             "show_image": false,
             "image_alt": "",
             "stars": 4,
-            "title": "Da vedere nel lungo periodo",
-            "text": "Facile da usare, vedremo gli effetti nei prossimi giorni",
-            "name": "Paul L.",
+            "title": "Parfaits",
+            "text": "",
+            "name": "Stefania L.",
             "verified": true,
             "date": "2025-10-05"
           }
@@ -1147,9 +1147,9 @@
             "show_image": false,
             "image_alt": "",
             "stars": 4,
-            "title": "Migliore forma fisica",
-            "text": "Mantieni le promesse: forma fisica migliore, articolazioni più leggere",
-            "name": "Britney J.",
+            "title": "top",
+            "text": "bon produit",
+            "name": "Igor",
             "verified": true,
             "date": "2025-09-26"
           }
@@ -1160,9 +1160,9 @@
             "show_image": false,
             "image_alt": "",
             "stars": 4,
-            "title": "Molto bene",
-            "text": "Molto bene",
-            "name": "Lise G.",
+            "title": "",
+            "text": "Bonne qualité, reste à tester",
+            "name": "Daniel B.",
             "verified": true,
             "date": "2025-10-23"
           }
@@ -1173,11 +1173,11 @@
             "show_image": false,
             "image_alt": "",
             "stars": 5,
-            "title": "Articolo trovato!",
-            "text": "Ho trovato il mio articolo, mille grazie",
-            "name": "Fanny L.",
+            "title": "",
+            "text": "Ils font leur travail, efficaces.",
+            "name": "Liala G.",
             "verified": true,
-            "date": "2025-11-12"
+            "date": "Il y a 3h"
           }
         },
         "review_m8Ktcw": {
@@ -1186,9 +1186,9 @@
             "show_image": false,
             "image_alt": "",
             "stars": 4,
-            "title": "Più in forma",
-            "text": "Mi sento più in forma e meglio",
-            "name": "Mélanie Q.",
+            "title": "",
+            "text": "Bon produit sympa à tester",
+            "name": "Client(e) vérifié(e)",
             "verified": true,
             "date": "2025-10-23"
           }
@@ -1199,8 +1199,8 @@
             "show_image": false,
             "image_alt": "",
             "stars": 4,
-            "title": "Meno infiammazioni",
-            "text": "Pratico, portatile. Riduce l'infiammazione nel corpo.",
+            "title": "",
+            "text": "Tout est très bien",
             "name": "Michel T.",
             "verified": true,
             "date": "2025-10-01"
@@ -1214,7 +1214,7 @@
             "stars": 5,
             "title": "Aiuta la digestione",
             "text": "L'acqua ha un sapore diverso e aiuta molto lo stomaco",
-            "name": "Boris O.",
+            "name": "Alicia.",
             "verified": true,
             "date": "2025-09-19"
           }
