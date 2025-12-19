@@ -762,6 +762,13 @@
     "faq": {
       "type": "faq",
       "blocks": {
+        "item_XCP7wX": {
+          "type": "item",
+          "settings": {
+            "title": "Que sont les graines auriculaires et comment fonctionnent-elles ?",
+            "content": "<p>Les graines auriculaires sont de minuscules outils d'acupression issus de la médecine traditionnelle chinoise qui stimulent en douceur les points de pression de l'oreille. Elles contribuent à soulager le stress, à améliorer le sommeil, la digestion, l'équilibre hormonal et le bien-être général, le tout sans aiguilles.</p>"
+          }
+        },
         "item_mLpMBV": {
           "type": "item",
           "settings": {
@@ -779,89 +786,55 @@
         "item_keRyNP": {
           "type": "item",
           "settings": {
-            "title": "Posso usare acqua filtrata (ad esempio con una caraffa filtrante)?",
-            "content": "<p>Sì, senza alcun problema. </p><p>L'acqua filtrata è addirittura ideale: la caraffa elimina le impurità e la bottiglia HydroHealth arricchisce poi l'acqua di idrogeno per massimizzarne i benefici. </p><p>→ Filtrata + idrogenata = la combinazione più salutare.</p>"
+            "title": "Combien de temp ça prend avant de voir des résultats ?",
+            "content": "<p>Pour une migraine en cours : 15 - 20 minutes <br/>Vous sentez la pression diminuer progressivement. </p>"
           }
         },
         "item_8N9rmH": {
           "type": "item",
           "settings": {
-            "title": "Che sapore ha?",
-            "content": "<p>Sebbene nella bottiglia siano visibili delle bollicine, l'acqua non ha il sapore frizzante dell'acqua gassata. L'acqua idrogenata ha un sapore leggero, puro e vivace, come un'acqua di alta qualità, ma con ulteriori benefici!</p>"
+            "title": "J'ai des piercings sur l'oreille, je peux quand même utiliser ?",
+            "content": "<p>Oui, les points d'acupression se trouvent sur des zones précises de l'oreille. si vos piercings ne sont pas exactement sur ces zones, aucun problème.</p>"
           }
         },
         "item_bwfNmh": {
           "type": "item",
           "settings": {
-            "title": "Che tipo di acqua posso usare?",
-            "content": "<p>Puoi utilizzare qualsiasi tipo di acqua con la tua HydroHealth.<br/><br/>È progettata per arricchire l’acqua con idrogeno indipendentemente dalla sua origine.</p>"
+            "title": "Ca se voit ? je travaille en contact client",
+            "content": "<p>Non, Aurora est transparent et ultra discret. Nos clientes les portent : </p><ul><li>Au bureau</li><li>En rendez-vous cliet</li><li>En soirée</li><li>Même en shooting photo</li></ul>"
           }
         },
         "item_NYVDGj": {
           "type": "item",
           "settings": {
-            "title": "I filtri devono essere sostituiti ?",
-            "content": "<p>Il filtro della nostra bottiglia è un filtro generatore, il che significa che impedisce all'ossigeno e ad altri minerali di penetrare nell'acqua. Non deve essere sostituito. Il filtro generatore è durevole.</p>"
+            "title": "Est-ce que ça tient vraiment en 5 jours ? Les autres patches tombaient en 2h..",
+            "content": "<p>On a testé 14 types d'adhésifs différents avant de trouver le bon.<br/>Notre adhésif médical hypoallergénique résiste à l'eau, à la sueur, au sommeil et ne laisse aucun résidu collant.</p>"
           }
         },
         "item_9EFRxK": {
           "type": "item",
           "settings": {
-            "title": "Qual è la concentrazione di idrogeno?",
-            "content": "<p>La bottiglia HydroHealth produce acqua idrogenata in due cicli. Un ciclo di 3 minuti produce una concentrazione di 1.600 ppb, mentre un ciclo di 10 minuti produce una concentrazione impressionante di 3.000 ppb </p><p><strong>Attenzione: se si utilizza la bottiglia per più di tre minuti, allentare il tappo per rilasciare la pressione</strong></p>"
+            "title": "Comment je sais où placer le patch?",
+            "content": "<p>Vous recevez un guide illustré par mail.<br/>Et si vous vous trompez ? Pas de panique, notre service client est ouvert 7j/7. Une simple photo de votre oreille et on vous guide pas à pas.</p>"
           }
         },
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "La bottiglia necessita di un filtro di ricambio?",
-            "content": "<p>No, la nostra bottiglia non necessita di un filtro di ricambio. I nostri filtri durano tutta la vita!</p>"
+            "title": "Est-ce que ça marche pour le stress et les acouphènes ?",
+            "content": "<p>Oui, avec des nuances.<br/>Aurora cible plusieurs points d'acupression. Selon où vous placez le patch, vous agissez sur les migraines, les tension cervicales, l'anxiété et le stresse mais aussi sur l'insomnie. En revanche, pour les acouphènes, les résultats sur nos clients sont variable.</p>"
           }
         },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "Come viene prodotto l'idrogeno nella bombola?",
-            "content": "<p>La bottiglia funziona grazie alla <strong>tecnologia di elettrolisi PEM/SPE</strong>. Quando si riempie la bottiglia d'acqua e si preme il pulsante, una piastra in <strong>titanio e platino</strong> separa l'acqua in ossigeno e idrogeno. Il processo richiede circa <strong>2-3 minuti</strong>. </p><p>L'idrogeno viene quindi infuso direttamente nell'acqua potabile, mentre l'ossigeno e i gas residui vengono espulsi attraverso un piccolo sistema di aerazione.</p>"
-          }
-        },
-        "item_iCAxnc": {
-          "type": "item",
-          "settings": {
-            "title": "In quanto tempo ne sentirò i benefici?",
-            "content": "<p>Alcuni avvertono un aumento di energia e un miglioramento del recupero già dai primi giorni, altri dopo 7 giorni di utilizzo regolare. La chiave è la costanza.</p>"
-          }
-        },
-        "item_BLc8Gw": {
-          "type": "item",
-          "settings": {
-            "title": "Quante bottiglie devo bere al giorno?",
-            "content": "<p>Si consiglia di utilizzare la bottiglia da 1 a 3 volte al giorno, in base alle proprie abitudini di idratazione.<br/><br/>L’importante è integrarla nella tua routine quotidiana in modo naturale e costante.</p><p>Ognuno trova il proprio ritmo ideale: alcuni preferiscono usarla al mattino, altri durante la giornata.</p>"
-          }
-        },
-        "item_Qi6h6G": {
-          "type": "item",
-          "settings": {
-            "title": "Posso usare acqua distillata, filtrata o del rubinetto?",
-            "content": "<p>Sì, puoi utilizzare acqua distillata, filtrata o del rubinetto.<br/><br/>Puoi usare anche altre tipologie di acqua come quella osmotizzata, alcalina, purificata o minerale.</p><p>La bottiglia è progettata per funzionare correttamente con <strong>qualsiasi fonte d’acqua naturale non gassata</strong>.</p>"
-          }
-        },
-        "item_e88PrQ": {
-          "type": "item",
-          "settings": {
-            "title": "La bottiglia è di vetro o di plastica?",
-            "content": "<p>La nostra bottiglia è in vetro e la base è in acciaio inossidabile.</p>"
-          }
-        },
-        "item_BJnAwt": {
-          "type": "item",
-          "settings": {
-            "title": "Quanto tempo occorre per ricaricare?",
-            "content": "<p>La nostra bottiglia impiega circa 30 minuti a un'ora per caricarsi completamente.</p>"
+            "title": "Est-ce que c'est réutilisable ?",
+            "content": "<p>Usage unique et c'est <strong>essentiel</strong>.<br/>L'adhésif perd 80% de son pouvoir après le premier retrait et la graine d'acupression s'use donc la pression n'est plus optimale.</p>"
           }
         }
       },
       "block_order": [
+        "item_XCP7wX",
         "item_mLpMBV",
         "item_beHi7B",
         "item_keRyNP",
@@ -870,12 +843,7 @@
         "item_NYVDGj",
         "item_9EFRxK",
         "166442457738b23caf-0",
-        "166442457738b23caf-1",
-        "item_iCAxnc",
-        "item_BLc8Gw",
-        "item_Qi6h6G",
-        "item_e88PrQ",
-        "item_BJnAwt"
+        "166442457738b23caf-1"
       ],
       "settings": {
         "full_width": false,
@@ -906,19 +874,21 @@
           "type": "review",
           "settings": {
             "show_image": true,
+            "image": "shopify://shop_images/odsnl3NT6_mid.jpg",
             "image_alt": "",
             "stars": 5,
-            "title": "Molto soddisfatta",
-            "text": "Lo consiglio vivamente!! Davvero, sento la differenza. Non ho più quella stanchezza improvvisa che mi viene dopo aver bevuto il caffè. È diventato il mio rituale quotidiano, GRAZIE!",
-            "name": "Lucie L.",
+            "title": "Incroyable",
+            "text": "Je sens le même effet que quand cela m'avait été posé par un professionnel",
+            "name": "Anaïs M.",
             "verified": true,
-            "date": "2025-10-03"
+            "date": "2025-19-12"
           }
         },
         "review_U4eV8t": {
           "type": "review",
           "settings": {
             "show_image": true,
+            "image": "shopify://shop_images/images.avif",
             "image_alt": "",
             "stars": 5,
             "title": "Grazie Hydrohealth",
@@ -932,6 +902,7 @@
           "type": "review",
           "settings": {
             "show_image": true,
+            "image": "shopify://shop_images/iOWghw8QV_mid.jpg",
             "image_alt": "",
             "stars": 5,
             "title": "Rapido ed efficace",
@@ -945,6 +916,7 @@
           "type": "review",
           "settings": {
             "show_image": true,
+            "image": "shopify://shop_images/YMHIJ3YR1_mid.jpg",
             "image_alt": "",
             "stars": 5,
             "title": "Magnifico",
@@ -958,6 +930,7 @@
           "type": "review",
           "settings": {
             "show_image": true,
+            "image": "shopify://shop_images/EKI4PbE3_mid.jpg",
             "image_alt": "",
             "stars": 5,
             "title": "Immediato boost di energia",
@@ -971,6 +944,7 @@
           "type": "review",
           "settings": {
             "show_image": true,
+            "image": "shopify://shop_images/y7g-qy8Wq_mid.jpg",
             "image_alt": "",
             "stars": 5,
             "title": "Perfetto per i reni",
@@ -984,6 +958,7 @@
           "type": "review",
           "settings": {
             "show_image": true,
+            "image": "shopify://shop_images/P4crC9us9x_mid.jpg",
             "image_alt": "",
             "stars": 5,
             "title": "Ottima qualità",
@@ -997,6 +972,7 @@
           "type": "review",
           "settings": {
             "show_image": true,
+            "image": "shopify://shop_images/fntcfUK8c_mid.jpg",
             "image_alt": "",
             "stars": 5,
             "title": "Gusto più puro",
@@ -1010,6 +986,7 @@
           "type": "review",
           "settings": {
             "show_image": true,
+            "image": "shopify://shop_images/VoZaxZ5S0_mid.jpg",
             "image_alt": "",
             "stars": 5,
             "title": "Adoro",
@@ -1023,6 +1000,7 @@
           "type": "review",
           "settings": {
             "show_image": true,
+            "image": "shopify://shop_images/bKajkeSQo_mid.jpg",
             "image_alt": "",
             "stars": 5,
             "title": "Gusto più puro",
@@ -1036,6 +1014,7 @@
           "type": "review",
           "settings": {
             "show_image": true,
+            "image": "shopify://shop_images/odsnl3NT6_mid.jpg",
             "image_alt": "",
             "stars": 5,
             "title": "Consegna rapida e conforme",
