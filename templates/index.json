@@ -361,7 +361,7 @@
         "text_MjEJMk": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Non occorre sostituire alcun filtro, basta semplicemente lavarlo.</strong></p>"
+            "text": "<p><strong>Libère toi de ta migraine dès maintenant</strong></p>"
           }
         },
         "kaching_bundles_app_block_Nw8UYQ": {
@@ -433,8 +433,8 @@
             "icon_width": 100,
             "title": "Tecnologia SPE/PEM convalidata dalla ricerca",
             "content": "<p>Il punto di riferimento mondiale per i generatori di idrogeno. La tecnologia richiesta dai laboratori per la sua assoluta purezza. A casa tua, in 3 minuti.</p>",
-            "background": "#eaf2ed",
-            "text_color": "#1a1a1a"
+            "background": "#e8e1d6",
+            "text_color": "#1f3d36"
           }
         },
         "pickup_availability_TJPD9J": {
