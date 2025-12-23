@@ -420,6 +420,7 @@
         "image_dA7WNq": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/AuroraRitual_26.png",
             "alignment": "center",
             "max_width": 500
           }
@@ -430,9 +431,10 @@
             "text_alignment": "start",
             "icon_position": "aligned",
             "icon": "picto-coupon",
-            "icon_width": 100,
-            "title": "Tecnologia SPE/PEM convalidata dalla ricerca",
-            "content": "<p>Il punto di riferimento mondiale per i generatori di idrogeno. La tecnologia richiesta dai laboratori per la sua assoluta purezza. A casa tua, in 3 minuti.</p>",
+            "custom_icon": "shopify://shop_images/AuroraRitual_23.png",
+            "icon_width": 80,
+            "title": "68% des acupuncteurs utilisent ces graines",
+            "content": "<p>L'auriculothérapie est reconnue par l'OMS depuis 1990 et enseignée dans les facultés de médecine chinoises. Aujourd'hui, tu peux faire chez toi ce que ton acupuncteur te facture 80€.</p>",
             "background": "#e8e1d6",
             "text_color": "#1f3d36"
           }
