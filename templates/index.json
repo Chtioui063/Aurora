@@ -496,6 +496,14 @@
             "page": ""
           }
         },
+        "tab_nfWewm": {
+          "type": "tab",
+          "settings": {
+            "title": "Guide de placement inclus",
+            "content": "<p>Guide anatomique ultra-détaillé avec photos réelles d'oreilles.<br/>Points numérotés selon votre besoin : migraines, stress, sommeil, douleurs.</p><p>Impossible de vous tromper.<br/>Chaque point est illustré clairement.</p><p><strong>Une question ? Un doute sur le placement ? Besoin de conseils ?</strong></p><p>Notre équipe est disponible <strong>7 jours sur 7</strong> pour vous accompagner</p><p><strong>On ne vous laisse pas seule.</strong></p><p>Vous méritez un accompagnement professionnel. Vous l'avez.<br/><br/><strong>contact@auroraritual.fr</strong></p>",
+            "page": ""
+          }
+        },
         "tab_iCHF9T": {
           "type": "tab",
           "settings": {
@@ -512,14 +520,6 @@
             "page": ""
           }
         },
-        "tab_nfWewm": {
-          "type": "tab",
-          "settings": {
-            "title": "Guide de placement inclus",
-            "content": "<p>Guide anatomique ultra-détaillé avec photos réelles d'oreilles.<br/>Points numérotés selon votre besoin : migraines, stress, sommeil, douleurs.</p><p>Impossible de vous tromper.<br/>Chaque point est illustré clairement.</p><p><strong>Une question ? Un doute sur le placement ? Besoin de conseils ?</strong></p><p>Notre équipe est disponible <strong>7 jours sur 7</strong> pour vous accompagner</p><p><strong>On ne vous laisse pas seule.</strong></p><p>Vous méritez un accompagnement professionnel. Vous l'avez.<br/><br/><strong>contact@auroraritual.fr</strong></p>",
-            "page": ""
-          }
-        },
         "tab_hyyLAi": {
           "type": "tab",
           "settings": {
@@ -531,9 +531,9 @@
       },
       "block_order": [
         "tab_HkrcAR",
+        "tab_nfWewm",
         "tab_iCHF9T",
         "tab_7JfdJV",
-        "tab_nfWewm",
         "tab_hyyLAi"
       ],
       "name": "Tabs",
