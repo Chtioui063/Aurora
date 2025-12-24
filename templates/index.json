@@ -766,7 +766,7 @@
         "item_XCP7wX": {
           "type": "item",
           "settings": {
-            "title": "Que sont les graines auriculaires et comment fonctionnent-elles ?",
+            "title": "C'est quoi ces petites graines ? Pourquoi ça marche ?",
             "content": "<p>Les graines auriculaires sont de minuscules outils d'acupression issus de la médecine traditionnelle chinoise qui stimulent en douceur les points de pression de l'oreille. Elles contribuent à soulager le stress, à améliorer le sommeil, la digestion, l'équilibre hormonal et le bien-être général, le tout sans aiguilles.</p>"
           }
         },
@@ -780,14 +780,14 @@
         "item_beHi7B": {
           "type": "item",
           "settings": {
-            "title": "Ça fait mal ? Je ne supporte pas la douleur...",
+            "title": "Est-cce douloureux (Spoiler : non)",
             "content": "<p>Non. Zéro douleur.</p><p>Vous sentez une légère pression quand vous placez le patch. C'est normal. C'est le signe que le point d'acupression est activé.</p><p>Mais ce n'est PAS douloureux. C'est une sensation de pression agréable, comme quand on vous masse.</p><p>Résultat : 98% de nos clients disent que c'est confortable ou imperceptible.</p>"
           }
         },
         "item_keRyNP": {
           "type": "item",
           "settings": {
-            "title": "Combien de temp ça prend avant de voir des résultats ?",
+            "title": "Résultats en combien de temps ?",
             "content": "<p>Pour une migraine en cours : 15 - 20 minutes <br/>Vous sentez la pression diminuer progressivement. </p>"
           }
         },
@@ -801,35 +801,35 @@
         "item_bwfNmh": {
           "type": "item",
           "settings": {
-            "title": "Ca se voit ? je travaille en contact client",
+            "title": "C'est visible ? Discret au travail ?",
             "content": "<p>Non, Aurora est transparent et ultra discret. Nos clientes les portent : </p><ul><li>Au bureau</li><li>En rendez-vous cliet</li><li>En soirée</li><li>Même en shooting photo</li></ul>"
           }
         },
         "item_NYVDGj": {
           "type": "item",
           "settings": {
-            "title": "Est-ce que ça tient vraiment 5 jours ? Les autres patches tombaient en 2h..",
+            "title": "5 jours non-stop, même en se douchant ? Vraiment ?",
             "content": "<p>On a testé 14 types d'adhésifs différents avant de trouver le bon.<br/>Notre adhésif médical hypoallergénique résiste à l'eau, à la sueur, au sommeil et ne laisse aucun résidu collant.</p>"
           }
         },
         "item_9EFRxK": {
           "type": "item",
           "settings": {
-            "title": "Comment je sais où placer le patch?",
+            "title": "Comment trouver les bon points ?",
             "content": "<p>Vous recevez un guide illustré par mail.<br/>Et si vous vous trompez ? Pas de panique, notre service client est ouvert 7j/7. Une simple photo de votre oreille et on vous guide pas à pas.</p>"
           }
         },
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Est-ce que ça marche pour le stress et les acouphènes ?",
+            "title": "Migraines OK, mais stress et acouphènes aussi ?",
             "content": "<p>Oui, avec des nuances.<br/>Aurora cible plusieurs points d'acupression. Selon où vous placez le patch, vous agissez sur les migraines, les tension cervicales, l'anxiété et le stresse mais aussi sur l'insomnie. En revanche, pour les acouphènes, les résultats sur nos clients sont variable.</p>"
           }
         },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "Est-ce que c'est réutilisable ?",
+            "title": "Je peux les réutiliser ou usage unique ?",
             "content": "<p>Usage unique et c'est <strong>essentiel</strong>.<br/>L'adhésif perd 80% de son pouvoir après le premier retrait et la graine d'acupression s'use donc la pression n'est plus optimale.</p>"
           }
         }
