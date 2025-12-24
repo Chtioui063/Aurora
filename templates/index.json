@@ -29,7 +29,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/AuroraRitual_13_0dd3a072-060e-406c-ab5f-4f1722f46633.png",
+        "image": "shopify://shop_images/AuroraRitual_33.png",
         "mobile_image": "shopify://shop_images/AuroraRitual_13_0dd3a072-060e-406c-ab5f-4f1722f46633.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -291,7 +291,7 @@
       ],
       "name": "Multi-column",
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "stack_on_mobile": false,
         "gap": "medium",
         "text_alignment": "center",
