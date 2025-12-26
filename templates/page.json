@@ -1,1 +1,54 @@
-{"sections":{"main":{"type":"main-page","settings":{}}},"order":["main"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "content_width": "80ch"
+      }
+    },
+    "multiple_images_with_text_j9jaKW": {
+      "type": "multiple-images-with-text",
+      "blocks": {
+        "item_UDYfhm": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/AuroraRitual_45.png",
+            "image_rotation_degrees": 1.5,
+            "subheading": "",
+            "title": "Qui sommes-nous ?",
+            "content": "<p>Chez <strong>AuroraRitual</strong>, on croit à un truc simple :<br/><br/>quand t’as la tête qui explose, le stress qui te bouffe, ou des nuits hachées… t’as pas envie d’un énième “conseil”.<br/><br/>Tu veux <strong>un soulagement</strong>, discret, et qui s’intègre à ta vie.</p><p>Nos patches d’acupression auriculaire s’inspirent de l’auriculothérapie :<br/><br/>un petit geste, au bon endroit, qui te redonne ce sentiment que tu connais peut-être déjà…<br/><br/><strong>comme quand c’est posé par un pro.</strong> </p><p>Avatar client</p><p>Ce qui fait la différence AuroraRitual :</p><ul><li><br/><strong>Tenue longue durée</strong> : tu bouges, tu dors, tu vis — ça reste en place. Avatar client<br/></li><li><br/><strong>Placement guidé</strong> : tu sais exactement où les poser (même si t’as jamais fait ça). Avatar client<br/></li><li><br/><strong>Pince incluse</strong> : parce que “sans pince” = galère, et ton avatar l’a déjà vécu. Avatar client<br/></li><li><br/><strong>Rituel simple</strong> : tu poses, tu presses 2–3 fois dans la journée… et tu laisses agir.<br/></li></ul><p>On a créé AuroraRitual pour les personnes qui en ont marre de :<br/><br/>tester mille trucs, douter, recommencer…<br/><br/>et finir avec un patch qui se décolle ou un truc “placebo”. </p><p>Avatar client</p><p><strong>Notre promesse :</strong> te rendre le contrôle, avec un rituel doux, clair, et facile à suivre — chez toi.</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_UDYfhm"
+      ],
+      "name": "Multiple images with text",
+      "settings": {
+        "full_width": true,
+        "images_layout": "stacked",
+        "collage_images_alignment": "middle",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "multiple_images_with_text_j9jaKW"
+  ]
+}
