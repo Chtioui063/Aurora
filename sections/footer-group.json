@@ -91,7 +91,8 @@
         "newsletter": {
           "type": "newsletter",
           "settings": {
-            "image_width": 150,
+            "image": "shopify://shop_images/AuroraRitual_44.png",
+            "image_width": 300,
             "heading_size": "h3",
             "title": "Inscrivez-vous pour recevoir nos offres et nos actualités",
             "content": ""
@@ -99,6 +100,7 @@
         },
         "links": {
           "type": "links",
+          "disabled": true,
           "settings": {
             "menu": "footer",
             "show_menu_title": true,
