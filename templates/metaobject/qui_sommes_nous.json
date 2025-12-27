@@ -8,6 +8,40 @@
  * ------------------------------------------------------------
  */
 {
-  "sections": {},
-  "order": []
+  "sections": {
+    "multiple_images_with_text_pGnXgm": {
+      "type": "multiple-images-with-text",
+      "blocks": {
+        "item_bjXTdx": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/AuroraRitual_45.png",
+            "image_rotation_degrees": 3.5,
+            "subheading": "",
+            "title": "",
+            "content": "<h2>Qui sommes-nous ?</h2><p><strong>AuroraRitual, c'est la réponse à une frustration qu'on connaît peut être trop bien.</strong></p><p>Migraines. Insomnies. Stress. On a vu des milliers de femmes galérer avec des patches qui se décollent, des graines qui tombent, des placements approximatifs et finir par abandonner en se disant \"encore un truc qui marche pas\".</p><p><strong>On a créé AuroraRitual pour une raison simple :</strong> vous donner ce que seul votre acupuncteur arrivait à faire <strong>un soulagement réel, durable, sans galère.</strong></p><p>Nos graines d'acupression auriculaire s'inspirent de l'auriculothérapie utilisée par des milliers de professionnels. Mais on les a pensés pour VOTRE quotidien : placement guidé, tenue longue durée, pince incluse, résultats dès la première utilisation.</p><p><strong>Pas de fausses promesses.</strong><br/><br/>Juste un rituel simple qui vous redonne le contrôle sur vos migraines, votre sommeil, votre stress.</p><p>Parce que vous méritez mieux que de tester encore et encore sans résultats.</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_bjXTdx"
+      ],
+      "name": "Multiple images with text",
+      "settings": {
+        "full_width": true,
+        "images_layout": "scattered",
+        "collage_images_alignment": "middle",
+        "background": "#e8e1d6",
+        "background_gradient": "",
+        "text_color": "#1f3d36",
+        "button_background": "#e8e1d6",
+        "button_text_color": ""
+      }
+    }
+  },
+  "order": [
+    "multiple_images_with_text_pGnXgm"
+  ]
 }
