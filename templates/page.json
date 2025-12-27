@@ -35,6 +35,7 @@
       "block_order": [
         "item_LaDLj6"
       ],
+      "disabled": true,
       "name": "Multiple images with text",
       "settings": {
         "full_width": true,
