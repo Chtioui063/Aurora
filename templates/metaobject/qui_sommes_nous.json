@@ -98,10 +98,86 @@
         "logo_item_background": "",
         "logo_item_border": ""
       }
+    },
+    "text_with_icons_ire4Ky": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_yLJnaz": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-box",
+            "mobile_icon_width": 24,
+            "icon_width": 24,
+            "icon_background_type": "circle",
+            "icon_background": "#e8e1d6",
+            "icon_color": "#1f3d36",
+            "title": "Livraison grauite",
+            "content": ""
+          }
+        },
+        "item_fn9HfB": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-return",
+            "mobile_icon_width": 24,
+            "icon_width": 24,
+            "icon_background_type": "circle",
+            "icon_background": "#e8e1d6",
+            "icon_color": "#1f3d36",
+            "title": "Satisfait ou remboursé",
+            "content": ""
+          }
+        },
+        "item_z78qcc": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-customer-support",
+            "mobile_icon_width": 24,
+            "icon_width": 24,
+            "icon_background_type": "circle",
+            "icon_background": "#e8e1d6",
+            "icon_color": "#1f3d36",
+            "title": "Service client 7j/7",
+            "content": ""
+          }
+        },
+        "item_cGQ3zA": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-lock",
+            "mobile_icon_width": 24,
+            "icon_width": 24,
+            "icon_background_type": "circle",
+            "icon_background": "#e8e1d6",
+            "icon_color": "#1f3d36",
+            "title": "Paiement sécurisé",
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_yLJnaz",
+        "item_fn9HfB",
+        "item_z78qcc",
+        "item_cGQ3zA"
+      ],
+      "name": "Text with icons",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "title": "",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
     "multiple_images_with_text_pGnXgm",
-    "logo_list_cD8NC3"
+    "logo_list_cD8NC3",
+    "text_with_icons_ire4Ky"
   ]
 }
