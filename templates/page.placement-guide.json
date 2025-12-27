@@ -11,40 +11,9 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "content_width": "80ch"
-      }
-    },
-    "multiple_images_with_text_Qwqq6B": {
-      "type": "multiple-images-with-text",
-      "blocks": {
-        "item_LaDLj6": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/AuroraRitual_45.png",
-            "image_rotation_degrees": 3.5,
-            "subheading": "",
-            "title": "",
-            "content": "<h2>Qui sommes-nous ?</h2><p><strong>AuroraRitual, c'est la réponse à une frustration qu'on connaît peut être trop bien.</strong></p><p>Migraines. Insomnies. Stress. On a vu des milliers de femmes galérer avec des patches qui se décollent, des graines qui tombent, des placements approximatifs et finir par abandonner en se disant \"encore un truc qui marche pas\".</p><p><strong>On a créé AuroraRitual pour une raison simple :</strong> vous donner ce que seul votre acupuncteur arrivait à faire <strong>un soulagement réel, durable, sans galère.</strong></p><p>Nos graines d'acupression auriculaire s'inspirent de l'auriculothérapie utilisée par des milliers de professionnels. Mais on les a pensés pour VOTRE quotidien : placement guidé, tenue longue durée, pince incluse, résultats dès la première utilisation.</p><p><strong>Pas de fausses promesses.</strong><br/><br/>Juste un rituel simple qui vous redonne le contrôle sur vos migraines, votre sommeil, votre stress.</p><p>Parce que vous méritez mieux que de tester encore et encore sans résultats.</p>",
-            "button_url": "",
-            "button_text": ""
-          }
-        }
-      },
-      "block_order": [
-        "item_LaDLj6"
-      ],
-      "disabled": true,
-      "name": "Multiple images with text",
-      "settings": {
-        "full_width": true,
-        "images_layout": "scattered",
-        "collage_images_alignment": "middle",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
       }
     },
     "logo_list_6Qny3M": {
@@ -184,7 +153,6 @@
   },
   "order": [
     "main",
-    "multiple_images_with_text_Qwqq6B",
     "logo_list_6Qny3M",
     "text_with_icons_7X6gdX"
   ]
