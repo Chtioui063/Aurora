@@ -97,32 +97,6 @@
         "logo_item_border": ""
       }
     },
-    "rich_text_bCJBQ3": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_BtqNL7": {
-          "type": "heading",
-          "settings": {
-            "text": "Je suis un ARABE",
-            "heading_tag": "h1",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_BtqNL7"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "image_with_text_overlay_wtFgTy": {
       "type": "image-with-text-overlay",
       "name": "Image with text overlay",
@@ -1456,7 +1430,6 @@
   "order": [
     "image_with_text_overlay_FPxaiF",
     "logo_list_7bQW9A",
-    "rich_text_bCJBQ3",
     "image_with_text_overlay_wtFgTy",
     "multi_column_AQUkFx",
     "before_after_image_3BCNVX",
