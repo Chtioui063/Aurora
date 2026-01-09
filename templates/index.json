@@ -417,10 +417,16 @@
             "max_width": 320
           }
         },
+        "liquid_FpdfTg": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"impact-perks\">\n  <div class=\"impact-perks__row\">\n    <span class=\"impact-perks__icon\" aria-hidden=\"true\">\n      <!-- Box / cube -->\n      <svg viewBox=\"0 0 24 24\" fill=\"none\" focusable=\"false\">\n        <path d=\"M12 3.3 20 7.5v9L12 20.7 4 16.5v-9L12 3.3Z\" stroke=\"currentColor\" stroke-width=\"1.7\" stroke-linejoin=\"round\"/>\n        <path d=\"M12 3.3v17.4\" stroke=\"currentColor\" stroke-width=\"1.7\" stroke-linejoin=\"round\"/>\n        <path d=\"M4 7.5l8 4.2 8-4.2\" stroke=\"currentColor\" stroke-width=\"1.7\" stroke-linejoin=\"round\"/>\n        <path d=\"M9.2 5.3l7.9 4.1\" stroke=\"currentColor\" stroke-width=\"1.7\" stroke-linecap=\"round\"/>\n      </svg>\n    </span>\n    <span class=\"impact-perks__text\">Expédié sous 48h</span>\n  </div>\n\n  <div class=\"impact-perks__row\">\n    <span class=\"impact-perks__icon\" aria-hidden=\"true\">\n      <!-- Truck -->\n      <svg viewBox=\"0 0 24 24\" fill=\"none\" focusable=\"false\">\n        <path d=\"M3.5 7.8h10.6v8.3H3.5V7.8Z\" stroke=\"currentColor\" stroke-width=\"1.7\" stroke-linejoin=\"round\"/>\n        <path d=\"M14.1 10h4.2l2.2 2.6v3.5h-6.4V10Z\" stroke=\"currentColor\" stroke-width=\"1.7\" stroke-linejoin=\"round\"/>\n        <path d=\"M7.2 18.2a1.6 1.6 0 1 0 0-.01\" stroke=\"currentColor\" stroke-width=\"1.7\" stroke-linecap=\"round\"/>\n        <path d=\"M17.8 18.2a1.6 1.6 0 1 0 0-.01\" stroke=\"currentColor\" stroke-width=\"1.7\" stroke-linecap=\"round\"/>\n        <path d=\"M14.1 16.1h-1.7\" stroke=\"currentColor\" stroke-width=\"1.7\" stroke-linecap=\"round\"/>\n      </svg>\n    </span>\n    <span class=\"impact-perks__text\">Livraison Gratuite</span>\n  </div>\n</div>\n\n<style>\n  .impact-perks{\n    /* Ajuste si besoin */\n    --perk-font-size: 18px;\n    --perk-line-gap: 8px;\n    --perk-icon-size: 28px;\n    --perk-icon-gap: 10px;\n\n    margin-top: 10px;\n    display: grid;\n    row-gap: var(--perk-line-gap);\n    color: rgb(var(--color-foreground));\n    font-size: var(--perk-font-size);\n    line-height: 1.25;\n  }\n\n  .impact-perks__row{\n    display: flex;\n    align-items: center;\n    gap: var(--perk-icon-gap);\n  }\n\n  .impact-perks__icon{\n    width: var(--perk-icon-size);\n    height: var(--perk-icon-size);\n    flex: 0 0 var(--perk-icon-size);\n    display: inline-flex;\n  }\n\n  .impact-perks__icon svg{\n    width: 100%;\n    height: 100%;\n    display: block;\n  }\n\n  .impact-perks__text{\n    /* on garde la typo du thème */\n    font: inherit;\n    letter-spacing: normal;\n  }\n</style>"
+          }
+        },
         "image_dA7WNq": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/AuroraRitual_64.png",
+            "image": "shopify://shop_images/AuroraRitual_26.png",
             "alignment": "center",
             "max_width": 500
           }
@@ -461,6 +467,7 @@
         "image_mcYNA9",
         "buy_buttons_pULgyy",
         "image_q9hHbh",
+        "liquid_FpdfTg",
         "image_dA7WNq",
         "offer_r4bTfw",
         "pickup_availability_TJPD9J"
