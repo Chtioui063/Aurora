@@ -700,6 +700,13 @@
     "faq": {
       "type": "faq",
       "blocks": {
+        "item_chdML9": {
+          "type": "item",
+          "settings": {
+            "title": "Quels sont les délais de livraison ?",
+            "content": "<p>Suite au grand succès de notre produit les délais de livraison sont les suivant:</p><ul><li>Délai de traitement : 1 à 3 jours ouvrés</li></ul><p></p><ul><li>Délai de livraison : 5 à 9 jours ouvrés</li></ul>"
+          }
+        },
         "item_XCP7wX": {
           "type": "item",
           "settings": {
@@ -772,6 +779,7 @@
         }
       },
       "block_order": [
+        "item_chdML9",
         "item_XCP7wX",
         "item_mLpMBV",
         "item_beHi7B",
