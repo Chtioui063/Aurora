@@ -25,15 +25,15 @@
         "content": "<p>Nous sommes à votre disposition pour vous aider avant, pendant et après votre commande.</p>",
         "text_position": "start",
         "contact_form_size": "large",
-        "background": "",
+        "background": "#e8e1d6",
         "background_gradient": "",
-        "text_color": "",
+        "text_color": "#1f3d36",
         "heading_color": "",
         "heading_gradient": "",
         "contact_background": "",
-        "contact_text_color": "",
-        "button_background": "",
-        "button_text_color": ""
+        "contact_text_color": "#1f3d36",
+        "button_background": "#1f3d36",
+        "button_text_color": "#e8e1d6"
       }
     }
   },
