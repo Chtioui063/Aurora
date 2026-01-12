@@ -99,6 +99,7 @@
     },
     "image_with_text_overlay_wtFgTy": {
       "type": "image-with-text-overlay",
+      "custom_css": [],
       "name": "Image with text overlay",
       "settings": {
         "full_width": true,
@@ -162,18 +163,22 @@
         "item_LhBFig",
         "item_JdJP8A"
       ],
+      "custom_css": [
+        "/* IMPACT — réduire l’espace entre le petit texte (eyebrow) et le titre juste en dessous */.section-header :is( p, .subheading, .section-header__subheading, .section-header__kicker, .h6, .h5, .h4 ) {margin-bottom: -0.5rem !important; /* ↓ espace sous “La télécommande…” */}",
+        ".section-header :is( p, .subheading, .section-header__subheading, .section-header__kicker, .h6, .h5, .h4 ) + :is(h1, h2, h3, .h0, .h1, .h2, .h3, .section-header__title) {margin-top: 0 !important; /* ↓ espace au-dessus de “Ton oreille” */}"
+      ],
       "name": "Multi-column",
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
         "gap": "medium",
-        "text_alignment": "start",
-        "subheading": "",
-        "title": "",
+        "text_alignment": "center",
+        "subheading": "La télécommande pour ton corps est",
+        "title": "Ton oreille",
         "content": "",
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
-        "text_color": ""
+        "text_color": "#1f3d36"
       }
     },
     "before_after_image_3BCNVX": {
