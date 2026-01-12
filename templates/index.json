@@ -571,7 +571,7 @@
         "enable_parallax": false,
         "image_size": "auto",
         "image": "shopify://shop_images/AuroraRitual_40.png",
-        "mobile_image": "shopify://shop_images/AuroraRitual_18_92ccf4de-37bc-495d-93d0-1dbd70bb4e74.png",
+        "mobile_image": "shopify://shop_images/AuroraRitual_65.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
