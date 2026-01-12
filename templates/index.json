@@ -503,7 +503,7 @@
           "type": "tab",
           "settings": {
             "title": "Application en 60 secondes",
-            "content": "<ol><li>Nettoyez votre oreille avec une lingette.</li><li>Consultez le guide pour localiser le point selon votre besoin.</li><li>Prélevez une graine avec la pince incluse.</li><li>Collez sur le point identifié</li><li>Massez légèrement pendant 30 secondes.</li></ol><p>Inspiré des principes de la <strong>médecine traditionnelle chinoise</strong>, utilisée depuis des siècles pour rééquilibrer le corps par l’oreille.</p>",
+            "content": "<ol><li>Nettoyez votre oreille avec une lingette.</li><li>Consultez le guide pour localiser le point selon votre besoin.</li><li>Prélevez un patch d'acupression avec la pince incluse.</li><li>Collez sur le point identifié</li><li>Massez légèrement pendant 30 secondes.</li></ol><p>Inspiré des principes de la <strong>médecine traditionnelle chinoise</strong>, utilisée depuis des siècles pour rééquilibrer le corps par l’oreille.</p>",
             "page": ""
           }
         },
@@ -519,7 +519,7 @@
           "type": "tab",
           "settings": {
             "title": "Zéro douleur garantie",
-            "content": "<p><strong>Aucune aiguille. Aucune piqûre.</strong><br/>Sensation de pression légère et agréable.</p><p>Les graines exercent une stimulation douce sur les points d'acupression.<br/>Compatible avec les peaux sensibles.</p><p>Si vous ressentez une gêne, c'est que vous appuyez trop fort.<br/>Relâchez simplement la pression lors du massage.</p>",
+            "content": "<p><strong>Aucune aiguille. Aucune piqûre.</strong><br/>Sensation de pression légère et agréable.</p><p>Les patchs d'acupression exercent une stimulation douce sur les points d'acupression.<br/>Compatible avec les peaux sensibles.</p><p>Si vous ressentez une gêne, c'est que vous appuyez trop fort.<br/>Relâchez simplement la pression lors du massage.</p>",
             "page": ""
           }
         },
@@ -535,7 +535,7 @@
           "type": "tab",
           "settings": {
             "title": "Conseils d'utilisation",
-            "content": "<p><strong>Fréquence d'utilisation</strong><br/>Portez les graines 3 à 5 jours consécutifs.<br/>Retirez-les ensuite et laissez votre peau respirer 1 à 2 jours.</p><p><strong>Massage</strong><br/>Massez les graines 3 fois par jour pendant 1 à 2 minutes.<br/>Particulièrement efficace lors des crises.</p><p><strong>Entretien</strong><br/>Nettoyez la zone avant application pour optimiser l'adhésion.<br/>Évitez les crèmes ou huiles sur la zone avant la pose.</p><p><strong>Durée de vie</strong><br/>Chaque graine est réutilisable tant que l'adhésif colle.<br/>En moyenne 2 à 3 utilisations par graine.</p><p><strong>Zones percées</strong><br/>Si vous avez des piercings, le guide s'adapte aux zones disponibles.<br/>Il existe toujours des points alternatifs.</p>",
+            "content": "<p><strong>Fréquence d'utilisation</strong><br/>Portez les patchs d'acupression 3 à 5 jours consécutifs.<br/>Retirez-les ensuite et laissez votre peau respirer 1 à 2 jours.</p><p><strong>Massage</strong><br/>Massez les patchs d'acupression 3 fois par jour pendant 1 à 2 minutes.<br/>Particulièrement efficace lors des crises.</p><p><strong>Entretien</strong><br/>Nettoyez la zone avant application pour optimiser l'adhésion.<br/>Évitez les crèmes ou huiles sur la zone avant la pose.</p><p><strong>Durée de vie</strong><br/>Chaque patchs d'acupression est réutilisable *tant que l'adhésif colle.</p><p><strong>Zones percées</strong><br/>Si vous avez des piercings, le guide s'adapte aux zones disponibles.<br/>Il existe toujours des points alternatifs.</p>",
             "page": ""
           }
         }
@@ -722,8 +722,8 @@
         "item_XCP7wX": {
           "type": "item",
           "settings": {
-            "title": "C'est quoi ces petites graines ? Pourquoi ça marche ?",
-            "content": "<p>Les graines auriculaires sont de minuscules outils d'acupression issus de la médecine traditionnelle chinoise qui stimulent en douceur les points de pression de l'oreille. Elles contribuent à soulager le stress, à améliorer le sommeil, la digestion, l'équilibre hormonal et le bien-être général, le tout sans aiguilles.</p>"
+            "title": "C'est quoi ces petits patchs d'acupression ? Pourquoi ça marche ?",
+            "content": "<p>Les patchs d'acupression sont de minuscules outils d'acupression issus de la médecine traditionnelle chinoise qui stimulent en douceur les points de pression de l'oreille. Elles contribuent à soulager le stress, à améliorer le sommeil, la digestion, l'équilibre hormonal et le bien-être général, le tout sans aiguilles.</p>"
           }
         },
         "item_mLpMBV": {
@@ -786,7 +786,7 @@
           "type": "item",
           "settings": {
             "title": "Je peux les réutiliser ou usage unique ?",
-            "content": "<p>Usage unique et c'est <strong>essentiel</strong>.<br/>L'adhésif perd 80% de son pouvoir après le premier retrait et la graine d'acupression s'use donc la pression n'est plus optimale.</p>"
+            "content": "<p>Usage unique et c'est <strong>essentiel</strong>.<br/>L'adhésif perd 80% de son pouvoir après le premier retrait et les patchs d'acupression s'usent, donc la pression n'est plus optimale.</p>"
           }
         }
       },
