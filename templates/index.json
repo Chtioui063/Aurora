@@ -107,7 +107,7 @@
         "enable_parallax": false,
         "image_size": "auto",
         "image": "shopify://shop_images/AuroraRitual_39.png",
-        "mobile_image": "shopify://shop_images/Benef.avif",
+        "mobile_image": "shopify://shop_images/AuroraRitual_66.avif",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
